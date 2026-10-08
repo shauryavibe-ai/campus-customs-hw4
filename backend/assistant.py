@@ -12,6 +12,7 @@ Security model:
 
 from __future__ import annotations
 
+import logging
 import os
 from functools import lru_cache
 from pathlib import Path
@@ -54,6 +55,23 @@ def _instructions() -> str:
     if mtime != _prompt_cache[0]:
         _prompt_cache = (mtime, PROMPT_FILE.read_text(encoding="utf-8"))
     return _prompt_cache[1]
+
+
+log = logging.getLogger("campus_customs.assistant")
+
+
+def model_or_none() -> OpenAIResponsesModel | None:
+    """The real model, or None when no PORTKEY_API_KEY is configured.
+
+    With None, a model supplied via agent.override(...) (the tests' fake models) still runs, so the
+    test suite works in a fresh clone without a key. Without any model, the run fails and the chat
+    falls back to the rule-based helper.
+    """
+    try:
+        return build_model()
+    except RuntimeError as exc:
+        log.warning("%s The AI assistant is unavailable; chat will use the rule-based helper.", exc)
+        return None
 
 
 @lru_cache(maxsize=1)
@@ -223,7 +241,7 @@ async def ask(
         message,
         message_history=to_model_history(history, deps),
         deps=deps,
-        model=build_model(),  # agent.override(model=...) in tests takes precedence
+        model=model_or_none(),  # agent.override(model=...) in tests takes precedence
         usage_limits=USAGE_LIMITS,
     )
     out = result.output

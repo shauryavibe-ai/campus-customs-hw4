@@ -189,3 +189,6 @@ Every prompt given to the AI assistant for this assignment, recorded verbatim an
 
 ## Prompt 1
 > for the last problem 13: put all the the code we wrote today in hw4 folder and push it to linked GitHub repository. Do not put my .env file, db or any sensitive info into the public repository, use Gitignore for all this. never ever send the api key
+
+## Prompt 2
+> check if everything works correctly in the repo as I have submitted it

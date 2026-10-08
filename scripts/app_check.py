@@ -208,16 +208,25 @@ async def check_platform(rep: Report, db: Path) -> None:
         img = await c.get(f"{SITE}/media/products/basic-hoodie-big-yale.jpg")
         rep.check("Product photos served through the API", "200 image/jpeg", f"{img.status_code} {img.headers.get('content-type')}",
                   img.status_code == 200 and img.headers.get("content-type") == "image/jpeg")
-        for label, path in [("database file", REAL_DB), ("test-logins file", HW4 / "test_accounts.md"), ("users.json", HW4 / "outputs" / "users.json"), (".env key file", HW4.parent / ".env")]:
+        env_file = HW4.parent / ".env" if (HW4.parent / ".env").exists() else HW4 / ".env"
+        for label, path in [("database file", REAL_DB), ("test-logins file", HW4 / "test_accounts.md"), ("users.json", HW4 / "outputs" / "users.json"), (".env key file", env_file)]:
             r = await c.get(f"{SITE}/@fs{quote(str(path))}")
-            rep.check(f"Website refuses to serve the {label}", "HTTP 403", r.status_code, r.status_code == 403)
+            # 403 = blocked. If the file isn't in this checkout (e.g. a fresh clone), the dev server answers with its
+            # normal app page (HTML) instead: nothing private is served either way.
+            app_page = r.status_code in (200, 404) and r.headers.get("content-type", "").startswith("text/html") and "<div id=\"root\">" in r.text
+            ok = r.status_code == 403 or (not path.exists() and app_page)
+            shown = r.status_code if r.status_code == 403 or path.exists() else f"{r.status_code} app page (file not in this checkout)"
+            rep.check(f"Website refuses to serve the {label}", "HTTP 403 (or the app page if the file isn't in this checkout)", shown, ok)
         r = await c.get(f"{API}/media/products/../campus_customs.db")
         rep.check("Photo route can't reach the database", "HTTP 404", r.status_code, r.status_code == 404)
         r = await c.get(f"{API}/api/chat/starters")
         headers = {k: r.headers.get(k) for k in ("x-content-type-options", "x-frame-options", "cache-control")}
         rep.check("Security headers on chat API", "nosniff, DENY, no-store", headers,
                   headers == {"x-content-type-options": "nosniff", "x-frame-options": "DENY", "cache-control": "no-store"})
-    key = next((line.split("=", 1)[1].strip().strip("'\"") for line in (HW4.parent / ".env").read_text().splitlines() if line.startswith("PORTKEY_API_KEY=")), "")
+    key = os.environ.get("PORTKEY_API_KEY", "")
+    for env_file in (HW4.parent / ".env", HW4 / ".env"):  # the root .env (your machine) or a .env in a clone
+        if not key and env_file.exists():
+            key = next((line.split("=", 1)[1].strip().strip("'\"") for line in env_file.read_text().splitlines() if line.startswith("PORTKEY_API_KEY=")), "")
     dist = HW4 / "frontend" / "dist"
     leaked = any(key and key in p.read_text(errors="ignore") for p in dist.rglob("*") if p.is_file() and p.suffix in (".js", ".html", ".css"))
     rep.check("API key is not in the built website", "not found in frontend/dist", "not found" if not leaked else "FOUND", bool(key) and not leaked)
