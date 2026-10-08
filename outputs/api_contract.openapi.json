@@ -1,0 +1,601 @@
+{
+  "components": {
+    "schemas": {
+      "CardSize": {
+        "properties": {
+          "quantity": {
+            "description": "inventory.quantity at the time of the reply.",
+            "minimum": 0.0,
+            "title": "Quantity",
+            "type": "integer"
+          },
+          "size": {
+            "enum": [
+              "XS",
+              "S",
+              "M",
+              "L",
+              "XL",
+              "XXL"
+            ],
+            "title": "Size",
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "in stock",
+              "low stock",
+              "sold out"
+            ],
+            "title": "Status",
+            "type": "string"
+          }
+        },
+        "required": [
+          "size",
+          "quantity",
+          "status"
+        ],
+        "title": "CardSize",
+        "type": "object"
+      },
+      "ChatHistory": {
+        "description": "GET /api/chat/history: the logged-in shopper's saved conversation, oldest first.",
+        "properties": {
+          "contract_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "title": "Contract Version",
+            "type": "string"
+          },
+          "messages": {
+            "items": {
+              "$ref": "#/components/schemas/ChatHistoryMessage"
+            },
+            "title": "Messages",
+            "type": "array"
+          }
+        },
+        "required": [
+          "messages"
+        ],
+        "title": "ChatHistory",
+        "type": "object"
+      },
+      "ChatHistoryMessage": {
+        "description": "One saved message from chat_messages, as the widget shows it when a shopper returns.",
+        "properties": {
+          "content": {
+            "description": "chat_messages.content",
+            "title": "Content",
+            "type": "string"
+          },
+          "created_at": {
+            "description": "chat_messages.created_at (UTC, 'YYYY-MM-DD HH:MM:SS')",
+            "title": "Created At",
+            "type": "string"
+          },
+          "id": {
+            "description": "chat_messages.id",
+            "title": "Id",
+            "type": "integer"
+          },
+          "page_product_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "chat_messages.page_product_id: product page the shopper was on (user rows)",
+            "title": "Page Product Id"
+          },
+          "products": {
+            "description": "Cards shown with this reply, rebuilt from today's catalogue and stock",
+            "items": {
+              "$ref": "#/components/schemas/ProductCard"
+            },
+            "title": "Products",
+            "type": "array"
+          },
+          "role": {
+            "description": "chat_messages.role",
+            "enum": [
+              "user",
+              "assistant"
+            ],
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "role",
+          "content",
+          "created_at"
+        ],
+        "title": "ChatHistoryMessage",
+        "type": "object"
+      },
+      "ChatRequest": {
+        "properties": {
+          "history": {
+            "items": {
+              "$ref": "#/components/schemas/ChatTurn"
+            },
+            "maxItems": 40,
+            "title": "History",
+            "type": "array"
+          },
+          "message": {
+            "maxLength": 500,
+            "minLength": 1,
+            "title": "Message",
+            "type": "string"
+          },
+          "page_product_id": {
+            "anyOf": [
+              {
+                "maxLength": 200,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Page Product Id"
+          }
+        },
+        "required": [
+          "message"
+        ],
+        "title": "ChatRequest",
+        "type": "object"
+      },
+      "ChatResponse": {
+        "description": "What POST /api/chat sends back to the website.",
+        "properties": {
+          "contract_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "title": "Contract Version",
+            "type": "string"
+          },
+          "products": {
+            "description": "Cards to render under the reply, in order",
+            "items": {
+              "$ref": "#/components/schemas/ProductCard"
+            },
+            "maxItems": 4,
+            "title": "Products",
+            "type": "array"
+          },
+          "reply": {
+            "description": "Plain text to show in the chat bubble",
+            "maxLength": 1000,
+            "title": "Reply",
+            "type": "string"
+          },
+          "source": {
+            "default": "ai",
+            "enum": [
+              "ai",
+              "blocked",
+              "fallback"
+            ],
+            "title": "Source",
+            "type": "string"
+          }
+        },
+        "required": [
+          "reply"
+        ],
+        "title": "ChatResponse",
+        "type": "object"
+      },
+      "ChatStarters": {
+        "description": "Greeting + dropdown questions shown when the chat opens.",
+        "properties": {
+          "greeting": {
+            "default": "What do you need today? What products are you looking for?",
+            "title": "Greeting",
+            "type": "string"
+          },
+          "questions": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Questions",
+            "type": "array"
+          }
+        },
+        "title": "ChatStarters",
+        "type": "object"
+      },
+      "ChatTurn": {
+        "description": "One earlier message, so the agent can follow the conversation.\n\nFor guests it comes from the browser (untrusted: treated as conversation, never as rules, and\nids are only used to look products up). For logged-in shoppers it is read from chat_messages.",
+        "properties": {
+          "content": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "title": "Content",
+            "type": "string"
+          },
+          "page_product_id": {
+            "anyOf": [
+              {
+                "maxLength": 200,
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "user turns: the product page the shopper was on when sending it",
+            "title": "Page Product Id"
+          },
+          "product_ids": {
+            "description": "assistant turns: the product cards shown with this reply",
+            "items": {
+              "type": "string"
+            },
+            "maxItems": 10,
+            "title": "Product Ids",
+            "type": "array"
+          },
+          "role": {
+            "enum": [
+              "user",
+              "assistant"
+            ],
+            "title": "Role",
+            "type": "string"
+          }
+        },
+        "required": [
+          "role",
+          "content"
+        ],
+        "title": "ChatTurn",
+        "type": "object"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "title": "Detail",
+            "type": "array"
+          }
+        },
+        "title": "HTTPValidationError",
+        "type": "object"
+      },
+      "ProductCard": {
+        "description": "One product card under a chat reply. Built from the database by product_id, never from AI text.",
+        "properties": {
+          "category": {
+            "description": "Store category derived from catalogue.garment_type",
+            "enum": [
+              "T-Shirts",
+              "Crewnecks",
+              "Hoodies",
+              "Quarter-Zips",
+              "Jackets & Fleece",
+              "Long Sleeves"
+            ],
+            "title": "Category",
+            "type": "string"
+          },
+          "colors": {
+            "description": "catalogue.colors",
+            "items": {
+              "type": "string"
+            },
+            "title": "Colors",
+            "type": "array"
+          },
+          "currency": {
+            "const": "USD",
+            "default": "USD",
+            "title": "Currency",
+            "type": "string"
+          },
+          "garment_type": {
+            "description": "catalogue.garment_type",
+            "title": "Garment Type",
+            "type": "string"
+          },
+          "image_url": {
+            "description": "Product photo, served by the API at /media/products/<file>.jpg",
+            "title": "Image Url",
+            "type": "string"
+          },
+          "name": {
+            "description": "catalogue.name, cleaned for display",
+            "title": "Name",
+            "type": "string"
+          },
+          "price": {
+            "description": "catalogue.price",
+            "minimum": 0.0,
+            "title": "Price",
+            "type": "number"
+          },
+          "product_id": {
+            "description": "catalogue.product_id",
+            "title": "Product Id",
+            "type": "string"
+          },
+          "product_url": {
+            "description": "Website path of the product page",
+            "title": "Product Url",
+            "type": "string"
+          },
+          "requested_size": {
+            "anyOf": [
+              {
+                "enum": [
+                  "XS",
+                  "S",
+                  "M",
+                  "L",
+                  "XL",
+                  "XXL"
+                ],
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Size the shopper asked about, if any",
+            "title": "Requested Size"
+          },
+          "requested_size_qty": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Quantity in requested_size, if any",
+            "title": "Requested Size Qty"
+          },
+          "short_description": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "First ~110 chars of catalogue.description; null if none",
+            "title": "Short Description"
+          },
+          "sizes": {
+            "description": "All six sizes in order XS..XXL with live quantities",
+            "items": {
+              "$ref": "#/components/schemas/CardSize"
+            },
+            "title": "Sizes",
+            "type": "array"
+          },
+          "sizes_in_stock": {
+            "description": "Sizes with quantity > 0",
+            "items": {
+              "enum": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+              ],
+              "type": "string"
+            },
+            "title": "Sizes In Stock",
+            "type": "array"
+          },
+          "total_stock": {
+            "description": "Sum of quantities across sizes",
+            "minimum": 0.0,
+            "title": "Total Stock",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "product_id",
+          "name",
+          "category",
+          "garment_type",
+          "price",
+          "short_description",
+          "colors",
+          "image_url",
+          "product_url",
+          "sizes",
+          "sizes_in_stock",
+          "total_stock"
+        ],
+        "title": "ProductCard",
+        "type": "object"
+      },
+      "ValidationError": {
+        "properties": {
+          "ctx": {
+            "title": "Context",
+            "type": "object"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "title": "Location",
+            "type": "array"
+          },
+          "msg": {
+            "title": "Message",
+            "type": "string"
+          },
+          "type": {
+            "title": "Error Type",
+            "type": "string"
+          }
+        },
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError",
+        "type": "object"
+      }
+    }
+  },
+  "info": {
+    "description": "Contract between the FastAPI backend and the website chat widget. See outputs/api_contract.md.",
+    "title": "Campus Customs chat API",
+    "version": "1.0"
+  },
+  "openapi": "3.1.0",
+  "paths": {
+    "/api/chat": {
+      "post": {
+        "operationId": "chat_api_chat_post",
+        "parameters": [
+          {
+            "in": "cookie",
+            "name": "cc_session",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Cc Session"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChatRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChatResponse"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            },
+            "description": "Validation Error"
+          }
+        },
+        "summary": "Chat"
+      }
+    },
+    "/api/chat/history": {
+      "get": {
+        "description": "The logged-in shopper's saved conversation (oldest first), so the widget can reload it.",
+        "operationId": "chat_history_api_chat_history_get",
+        "parameters": [
+          {
+            "in": "cookie",
+            "name": "cc_session",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Cc Session"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChatHistory"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            },
+            "description": "Validation Error"
+          }
+        },
+        "summary": "Chat History"
+      }
+    },
+    "/api/chat/starters": {
+      "get": {
+        "operationId": "chat_starters_api_chat_starters_get",
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChatStarters"
+                }
+              }
+            },
+            "description": "Successful Response"
+          }
+        },
+        "summary": "Chat Starters"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "01-home-yale-blue-ask-dan.webp",
+    "title": "Home page in Yale Blue, with \"Ask Dan\"",
+    "shows": "The redesigned home page: Yale Blue announcement bar and buttons, light-blue headline, real product photos, the three store promises, and the bulldog \"Ask Dan\" chat button in the corner.",
+    "work": "Problem 3 (React site and tabs), Problem 10 (Yale-blue theme and Dan the bulldog)"
+  },
+  {
+    "file": "02-dan-greets-shopper.webp",
+    "title": "Dan greets the shopper",
+    "shows": "Opening the chat: Dan's avatar in the Yale Blue header and his greeting, \"Woof! I'm Dan, the Campus Customs bulldog. What do you need today? What products are you looking for?\", plus the Common questions dropdown.",
+    "work": "Problem 5 (AI chatbot, greeting and dropdown), Problem 10 (bulldog mascot drawn in code)"
+  },
+  {
+    "file": "03-dan-sniffing-out-catalogue.webp",
+    "title": "\"Do you have a Yale hoodie\": Dan is looking it up",
+    "shows": "While the real AI agent searches the live database, Dan tilts his head with \"Dan is sniffing out the catalogue…\", so the shopper knows something is happening.",
+    "work": "Problem 6 (agent tools that query the database), Problem 10 (thinking bulldog)"
+  },
+  {
+    "file": "04-live-hoodie-product-cards.webp",
+    "title": "Live product cards in the chat",
+    "shows": "Dan answers with real product cards (Yale Mom Hoodie, District Vit Hoodie Vintage Bulldog…): photo, category, short description, $68.00 from the catalogue, \"All sizes in stock\" / \"5 of 6 sizes in stock\", sold-out sizes crossed out, and low-stock sizes in pink.",
+    "work": "Problem 6 (never-invented prices and stock), Problem 7 (API contract: structured product cards), Problem 9 (clickable size chips)"
+  },
+  {
+    "file": "05-this-in-black-uses-context.webp",
+    "title": "\"Can I get this in black\": Dan understands the context",
+    "shows": "After showing four hoodies, the shopper asks about \"this\". Dan knows which cards were on screen, checks their real colors, says none come in black, and asks which style they meant instead of guessing.",
+    "work": "Problem 8 (the agent sees the cards and page the shopper saw), Problem 9 (rules for what \"this\" means), Problem 6 (colors from the database)"
+  },
+  {
+    "file": "06-create-account.webp",
+    "title": "Create Account",
+    "shows": "The account sign-up form (first and last name, email, password and confirm). New accounts are saved to the users table with securely hashed passwords. The chat stays available on the right.",
+    "work": "Problem 4 (accounts with PBKDF2-hashed passwords, password rules, lockout)"
+  },
+  {
+    "file": "07-login-chat-kept.webp",
+    "title": "Login, with the conversation still open",
+    "shows": "\"Welcome back, Bulldog\" login page. The chat panel keeps the conversation (hoodie card and the black-color answer) while the shopper moves between pages. After login it would be saved to their account and reload on their next visit.",
+    "work": "Problem 4 (login and sessions), Problem 8 (saved chat history for logged-in shoppers), Problem 7 (shop pages and chat work independently)"
+  }
+]

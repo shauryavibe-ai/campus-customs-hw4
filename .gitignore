@@ -1,0 +1,50 @@
+# ---------------------------------------------------------------
+# Secrets: never commit API keys or credentials
+# ---------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+test_accounts.md
+
+# ---------------------------------------------------------------
+# Databases and personal data
+# The SQLite database holds user emails, password hashes, sessions,
+# chat history, bags and reservations, so it is never committed.
+# ---------------------------------------------------------------
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.zip
+data/*.db
+outputs/users.json
+outputs/chat_messages.json
+outputs/audit_trail.json
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---------------------------------------------------------------
+# Node / frontend build output
+# ---------------------------------------------------------------
+node_modules/
+frontend/dist/
+frontend/node_modules/
+*.log
+
+# ---------------------------------------------------------------
+# OS / editor
+# ---------------------------------------------------------------
+.DS_Store
+.vscode/
+.idea/

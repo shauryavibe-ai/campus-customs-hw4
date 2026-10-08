@@ -1,0 +1,3674 @@
+[
+  {
+    "id": 1,
+    "product_id": "2025-yale-vs-harvard-t-shirt",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 2,
+    "product_id": "2025-yale-vs-harvard-t-shirt",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 3,
+    "product_id": "2025-yale-vs-harvard-t-shirt",
+    "size": "M",
+    "quantity": 20
+  },
+  {
+    "id": 4,
+    "product_id": "2025-yale-vs-harvard-t-shirt",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 5,
+    "product_id": "2025-yale-vs-harvard-t-shirt",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 6,
+    "product_id": "2025-yale-vs-harvard-t-shirt",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 7,
+    "product_id": "baseball-left-chest-crewneck",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "product_id": "baseball-left-chest-crewneck",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 9,
+    "product_id": "baseball-left-chest-crewneck",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 10,
+    "product_id": "baseball-left-chest-crewneck",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 11,
+    "product_id": "baseball-left-chest-crewneck",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 12,
+    "product_id": "baseball-left-chest-crewneck",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 13,
+    "product_id": "basic-hoodie-big-yale",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 14,
+    "product_id": "basic-hoodie-big-yale",
+    "size": "S",
+    "quantity": 5
+  },
+  {
+    "id": 15,
+    "product_id": "basic-hoodie-big-yale",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 16,
+    "product_id": "basic-hoodie-big-yale",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 17,
+    "product_id": "basic-hoodie-big-yale",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 18,
+    "product_id": "basic-hoodie-big-yale",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 19,
+    "product_id": "benjamin-franklin-1-4-zip",
+    "size": "XS",
+    "quantity": 2
+  },
+  {
+    "id": 20,
+    "product_id": "benjamin-franklin-1-4-zip",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 21,
+    "product_id": "benjamin-franklin-1-4-zip",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 22,
+    "product_id": "benjamin-franklin-1-4-zip",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 23,
+    "product_id": "benjamin-franklin-1-4-zip",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 24,
+    "product_id": "benjamin-franklin-1-4-zip",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 25,
+    "product_id": "benjamin-franklin-fleece-jacket",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 26,
+    "product_id": "benjamin-franklin-fleece-jacket",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 27,
+    "product_id": "benjamin-franklin-fleece-jacket",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 28,
+    "product_id": "benjamin-franklin-fleece-jacket",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 29,
+    "product_id": "benjamin-franklin-fleece-jacket",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 30,
+    "product_id": "benjamin-franklin-fleece-jacket",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 31,
+    "product_id": "benjamin-franklin-t-shirt",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 32,
+    "product_id": "benjamin-franklin-t-shirt",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 33,
+    "product_id": "benjamin-franklin-t-shirt",
+    "size": "M",
+    "quantity": 2
+  },
+  {
+    "id": 34,
+    "product_id": "benjamin-franklin-t-shirt",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 35,
+    "product_id": "benjamin-franklin-t-shirt",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 36,
+    "product_id": "benjamin-franklin-t-shirt",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 37,
+    "product_id": "berkeley-1-4-zip",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 38,
+    "product_id": "berkeley-1-4-zip",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 39,
+    "product_id": "berkeley-1-4-zip",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 40,
+    "product_id": "berkeley-1-4-zip",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 41,
+    "product_id": "berkeley-1-4-zip",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 42,
+    "product_id": "berkeley-1-4-zip",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 43,
+    "product_id": "berkeley-sweater-fleece-jacket",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 44,
+    "product_id": "berkeley-sweater-fleece-jacket",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 45,
+    "product_id": "berkeley-sweater-fleece-jacket",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 46,
+    "product_id": "berkeley-sweater-fleece-jacket",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 47,
+    "product_id": "berkeley-sweater-fleece-jacket",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 48,
+    "product_id": "berkeley-sweater-fleece-jacket",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 49,
+    "product_id": "big-yale-tri-blend-t-shirt",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 50,
+    "product_id": "big-yale-tri-blend-t-shirt",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 51,
+    "product_id": "big-yale-tri-blend-t-shirt",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 52,
+    "product_id": "big-yale-tri-blend-t-shirt",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 53,
+    "product_id": "big-yale-tri-blend-t-shirt",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 54,
+    "product_id": "big-yale-tri-blend-t-shirt",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 55,
+    "product_id": "boola-boola-t-shirt",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 56,
+    "product_id": "boola-boola-t-shirt",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 57,
+    "product_id": "boola-boola-t-shirt",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 58,
+    "product_id": "boola-boola-t-shirt",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 59,
+    "product_id": "boola-boola-t-shirt",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 60,
+    "product_id": "boola-boola-t-shirt",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 61,
+    "product_id": "branford-1-4-zip",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 62,
+    "product_id": "branford-1-4-zip",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 63,
+    "product_id": "branford-1-4-zip",
+    "size": "M",
+    "quantity": 20
+  },
+  {
+    "id": 64,
+    "product_id": "branford-1-4-zip",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 65,
+    "product_id": "branford-1-4-zip",
+    "size": "XL",
+    "quantity": 5
+  },
+  {
+    "id": 66,
+    "product_id": "branford-1-4-zip",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 67,
+    "product_id": "brooks-brothers-bomber-jacket-yale",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 68,
+    "product_id": "brooks-brothers-bomber-jacket-yale",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 69,
+    "product_id": "brooks-brothers-bomber-jacket-yale",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 70,
+    "product_id": "brooks-brothers-bomber-jacket-yale",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 71,
+    "product_id": "brooks-brothers-bomber-jacket-yale",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 72,
+    "product_id": "brooks-brothers-bomber-jacket-yale",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 73,
+    "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 74,
+    "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 75,
+    "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 76,
+    "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 77,
+    "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 78,
+    "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 79,
+    "product_id": "champion-full-zip-hood",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 80,
+    "product_id": "champion-full-zip-hood",
+    "size": "S",
+    "quantity": 5
+  },
+  {
+    "id": 81,
+    "product_id": "champion-full-zip-hood",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 82,
+    "product_id": "champion-full-zip-hood",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 83,
+    "product_id": "champion-full-zip-hood",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 84,
+    "product_id": "champion-full-zip-hood",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 85,
+    "product_id": "champion-mens-triumph-raglan-crew",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 86,
+    "product_id": "champion-mens-triumph-raglan-crew",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 87,
+    "product_id": "champion-mens-triumph-raglan-crew",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 88,
+    "product_id": "champion-mens-triumph-raglan-crew",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 89,
+    "product_id": "champion-mens-triumph-raglan-crew",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 90,
+    "product_id": "champion-mens-triumph-raglan-crew",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 91,
+    "product_id": "champion-reverse-weave-crewneck",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 92,
+    "product_id": "champion-reverse-weave-crewneck",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 93,
+    "product_id": "champion-reverse-weave-crewneck",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 94,
+    "product_id": "champion-reverse-weave-crewneck",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 95,
+    "product_id": "champion-reverse-weave-crewneck",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 96,
+    "product_id": "champion-reverse-weave-crewneck",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 97,
+    "product_id": "champion-reverse-weave-hoodie-1",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 98,
+    "product_id": "champion-reverse-weave-hoodie-1",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 99,
+    "product_id": "champion-reverse-weave-hoodie-1",
+    "size": "M",
+    "quantity": 20
+  },
+  {
+    "id": 100,
+    "product_id": "champion-reverse-weave-hoodie-1",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 101,
+    "product_id": "champion-reverse-weave-hoodie-1",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 102,
+    "product_id": "champion-reverse-weave-hoodie-1",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 103,
+    "product_id": "crew-left-chest-hoodie",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 104,
+    "product_id": "crew-left-chest-hoodie",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 105,
+    "product_id": "crew-left-chest-hoodie",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 106,
+    "product_id": "crew-left-chest-hoodie",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 107,
+    "product_id": "crew-left-chest-hoodie",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 108,
+    "product_id": "crew-left-chest-hoodie",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 109,
+    "product_id": "davenport-college-crewneck",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 110,
+    "product_id": "davenport-college-crewneck",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 111,
+    "product_id": "davenport-college-crewneck",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 112,
+    "product_id": "davenport-college-crewneck",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 113,
+    "product_id": "davenport-college-crewneck",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 114,
+    "product_id": "davenport-college-crewneck",
+    "size": "XXL",
+    "quantity": 8
+  },
+  {
+    "id": 115,
+    "product_id": "district-tri-blend-t-shirt-vintage-shield",
+    "size": "XS",
+    "quantity": 2
+  },
+  {
+    "id": 116,
+    "product_id": "district-tri-blend-t-shirt-vintage-shield",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 117,
+    "product_id": "district-tri-blend-t-shirt-vintage-shield",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 118,
+    "product_id": "district-tri-blend-t-shirt-vintage-shield",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 119,
+    "product_id": "district-tri-blend-t-shirt-vintage-shield",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 120,
+    "product_id": "district-tri-blend-t-shirt-vintage-shield",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 121,
+    "product_id": "district-vit-crewneck-vintage-bulldog",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 122,
+    "product_id": "district-vit-crewneck-vintage-bulldog",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 123,
+    "product_id": "district-vit-crewneck-vintage-bulldog",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 124,
+    "product_id": "district-vit-crewneck-vintage-bulldog",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 125,
+    "product_id": "district-vit-crewneck-vintage-bulldog",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 126,
+    "product_id": "district-vit-crewneck-vintage-bulldog",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 127,
+    "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 128,
+    "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 129,
+    "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 130,
+    "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 131,
+    "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+    "size": "XL",
+    "quantity": 5
+  },
+  {
+    "id": 132,
+    "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 133,
+    "product_id": "district-vit-hoodie-vintage-bulldog",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 134,
+    "product_id": "district-vit-hoodie-vintage-bulldog",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 135,
+    "product_id": "district-vit-hoodie-vintage-bulldog",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 136,
+    "product_id": "district-vit-hoodie-vintage-bulldog",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 137,
+    "product_id": "district-vit-hoodie-vintage-bulldog",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 138,
+    "product_id": "district-vit-hoodie-vintage-bulldog",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 139,
+    "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 140,
+    "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 141,
+    "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 142,
+    "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 143,
+    "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 144,
+    "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 145,
+    "product_id": "diving-left-chest-crewneck",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 146,
+    "product_id": "diving-left-chest-crewneck",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 147,
+    "product_id": "diving-left-chest-crewneck",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 148,
+    "product_id": "diving-left-chest-crewneck",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 149,
+    "product_id": "diving-left-chest-crewneck",
+    "size": "XL",
+    "quantity": 5
+  },
+  {
+    "id": 150,
+    "product_id": "diving-left-chest-crewneck",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 151,
+    "product_id": "divinity-school-fleece-sweater",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 152,
+    "product_id": "divinity-school-fleece-sweater",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 153,
+    "product_id": "divinity-school-fleece-sweater",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 154,
+    "product_id": "divinity-school-fleece-sweater",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 155,
+    "product_id": "divinity-school-fleece-sweater",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 156,
+    "product_id": "divinity-school-fleece-sweater",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 157,
+    "product_id": "dry-zone-long-sleeve",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 158,
+    "product_id": "dry-zone-long-sleeve",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 159,
+    "product_id": "dry-zone-long-sleeve",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 160,
+    "product_id": "dry-zone-long-sleeve",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 161,
+    "product_id": "dry-zone-long-sleeve",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 162,
+    "product_id": "dry-zone-long-sleeve",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 163,
+    "product_id": "fencing-left-chest-hoodie",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 164,
+    "product_id": "fencing-left-chest-hoodie",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 165,
+    "product_id": "fencing-left-chest-hoodie",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 166,
+    "product_id": "fencing-left-chest-hoodie",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 167,
+    "product_id": "fencing-left-chest-hoodie",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 168,
+    "product_id": "fencing-left-chest-hoodie",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 169,
+    "product_id": "football-left-chest-t-shirt",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 170,
+    "product_id": "football-left-chest-t-shirt",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 171,
+    "product_id": "football-left-chest-t-shirt",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 172,
+    "product_id": "football-left-chest-t-shirt",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 173,
+    "product_id": "football-left-chest-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 174,
+    "product_id": "football-left-chest-t-shirt",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 175,
+    "product_id": "grace-hopper-college-crewneck",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 176,
+    "product_id": "grace-hopper-college-crewneck",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 177,
+    "product_id": "grace-hopper-college-crewneck",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 178,
+    "product_id": "grace-hopper-college-crewneck",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 179,
+    "product_id": "grace-hopper-college-crewneck",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 180,
+    "product_id": "grace-hopper-college-crewneck",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 181,
+    "product_id": "grace-hopper-logo-t-shirt",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 182,
+    "product_id": "grace-hopper-logo-t-shirt",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 183,
+    "product_id": "grace-hopper-logo-t-shirt",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 184,
+    "product_id": "grace-hopper-logo-t-shirt",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 185,
+    "product_id": "grace-hopper-logo-t-shirt",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 186,
+    "product_id": "grace-hopper-logo-t-shirt",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 187,
+    "product_id": "hype-and-vice-yale-university-offside-crewneck",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 188,
+    "product_id": "hype-and-vice-yale-university-offside-crewneck",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 189,
+    "product_id": "hype-and-vice-yale-university-offside-crewneck",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 190,
+    "product_id": "hype-and-vice-yale-university-offside-crewneck",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 191,
+    "product_id": "hype-and-vice-yale-university-offside-crewneck",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 192,
+    "product_id": "hype-and-vice-yale-university-offside-crewneck",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 193,
+    "product_id": "hype-and-vice-yale-university-premium-crewneck",
+    "size": "XS",
+    "quantity": 2
+  },
+  {
+    "id": 194,
+    "product_id": "hype-and-vice-yale-university-premium-crewneck",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 195,
+    "product_id": "hype-and-vice-yale-university-premium-crewneck",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 196,
+    "product_id": "hype-and-vice-yale-university-premium-crewneck",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 197,
+    "product_id": "hype-and-vice-yale-university-premium-crewneck",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 198,
+    "product_id": "hype-and-vice-yale-university-premium-crewneck",
+    "size": "XXL",
+    "quantity": 8
+  },
+  {
+    "id": 199,
+    "product_id": "ice-hockey-left-chest-hoodie",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 200,
+    "product_id": "ice-hockey-left-chest-hoodie",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 201,
+    "product_id": "ice-hockey-left-chest-hoodie",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 202,
+    "product_id": "ice-hockey-left-chest-hoodie",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 203,
+    "product_id": "ice-hockey-left-chest-hoodie",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 204,
+    "product_id": "ice-hockey-left-chest-hoodie",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 205,
+    "product_id": "jonathan-edwards-college-crewneck",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 206,
+    "product_id": "jonathan-edwards-college-crewneck",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 207,
+    "product_id": "jonathan-edwards-college-crewneck",
+    "size": "M",
+    "quantity": 2
+  },
+  {
+    "id": 208,
+    "product_id": "jonathan-edwards-college-crewneck",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 209,
+    "product_id": "jonathan-edwards-college-crewneck",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 210,
+    "product_id": "jonathan-edwards-college-crewneck",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 211,
+    "product_id": "lacrosse-left-chest-crewneck",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 212,
+    "product_id": "lacrosse-left-chest-crewneck",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 213,
+    "product_id": "lacrosse-left-chest-crewneck",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 214,
+    "product_id": "lacrosse-left-chest-crewneck",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 215,
+    "product_id": "lacrosse-left-chest-crewneck",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 216,
+    "product_id": "lacrosse-left-chest-crewneck",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 217,
+    "product_id": "morse-1-4-zip",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 218,
+    "product_id": "morse-1-4-zip",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 219,
+    "product_id": "morse-1-4-zip",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 220,
+    "product_id": "morse-1-4-zip",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 221,
+    "product_id": "morse-1-4-zip",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 222,
+    "product_id": "morse-1-4-zip",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 223,
+    "product_id": "morse-logo-t-shirt",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 224,
+    "product_id": "morse-logo-t-shirt",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 225,
+    "product_id": "morse-logo-t-shirt",
+    "size": "M",
+    "quantity": 20
+  },
+  {
+    "id": 226,
+    "product_id": "morse-logo-t-shirt",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 227,
+    "product_id": "morse-logo-t-shirt",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 228,
+    "product_id": "morse-logo-t-shirt",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 229,
+    "product_id": "pierson-college-crewneck",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 230,
+    "product_id": "pierson-college-crewneck",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 231,
+    "product_id": "pierson-college-crewneck",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 232,
+    "product_id": "pierson-college-crewneck",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 233,
+    "product_id": "pierson-college-crewneck",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 234,
+    "product_id": "pierson-college-crewneck",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 235,
+    "product_id": "pierson-logo-t-shirt",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 236,
+    "product_id": "pierson-logo-t-shirt",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 237,
+    "product_id": "pierson-logo-t-shirt",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 238,
+    "product_id": "pierson-logo-t-shirt",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 239,
+    "product_id": "pierson-logo-t-shirt",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 240,
+    "product_id": "pierson-logo-t-shirt",
+    "size": "XXL",
+    "quantity": 8
+  },
+  {
+    "id": 241,
+    "product_id": "poly-twill-crewneck-arched-yale",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 242,
+    "product_id": "poly-twill-crewneck-arched-yale",
+    "size": "S",
+    "quantity": 20
+  },
+  {
+    "id": 243,
+    "product_id": "poly-twill-crewneck-arched-yale",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 244,
+    "product_id": "poly-twill-crewneck-arched-yale",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 245,
+    "product_id": "poly-twill-crewneck-arched-yale",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 246,
+    "product_id": "poly-twill-crewneck-arched-yale",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 247,
+    "product_id": "sailing-left-chest-hoodie",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 248,
+    "product_id": "sailing-left-chest-hoodie",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 249,
+    "product_id": "sailing-left-chest-hoodie",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 250,
+    "product_id": "sailing-left-chest-hoodie",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 251,
+    "product_id": "sailing-left-chest-hoodie",
+    "size": "XL",
+    "quantity": 5
+  },
+  {
+    "id": 252,
+    "product_id": "sailing-left-chest-hoodie",
+    "size": "XXL",
+    "quantity": 8
+  },
+  {
+    "id": 253,
+    "product_id": "saybrook-college-crewneck",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 254,
+    "product_id": "saybrook-college-crewneck",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 255,
+    "product_id": "saybrook-college-crewneck",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 256,
+    "product_id": "saybrook-college-crewneck",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 257,
+    "product_id": "saybrook-college-crewneck",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 258,
+    "product_id": "saybrook-college-crewneck",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 259,
+    "product_id": "saybrook-logo-t-shirt",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 260,
+    "product_id": "saybrook-logo-t-shirt",
+    "size": "S",
+    "quantity": 20
+  },
+  {
+    "id": 261,
+    "product_id": "saybrook-logo-t-shirt",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 262,
+    "product_id": "saybrook-logo-t-shirt",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 263,
+    "product_id": "saybrook-logo-t-shirt",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 264,
+    "product_id": "saybrook-logo-t-shirt",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 265,
+    "product_id": "saybrook-sweater-fleece-jacket",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 266,
+    "product_id": "saybrook-sweater-fleece-jacket",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 267,
+    "product_id": "saybrook-sweater-fleece-jacket",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 268,
+    "product_id": "saybrook-sweater-fleece-jacket",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 269,
+    "product_id": "saybrook-sweater-fleece-jacket",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 270,
+    "product_id": "saybrook-sweater-fleece-jacket",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 271,
+    "product_id": "school-of-architecture-crewneck",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 272,
+    "product_id": "school-of-architecture-crewneck",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 273,
+    "product_id": "school-of-architecture-crewneck",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 274,
+    "product_id": "school-of-architecture-crewneck",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 275,
+    "product_id": "school-of-architecture-crewneck",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 276,
+    "product_id": "school-of-architecture-crewneck",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 277,
+    "product_id": "school-of-architecture-fleece-sweater",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 278,
+    "product_id": "school-of-architecture-fleece-sweater",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 279,
+    "product_id": "school-of-architecture-fleece-sweater",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 280,
+    "product_id": "school-of-architecture-fleece-sweater",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 281,
+    "product_id": "school-of-architecture-fleece-sweater",
+    "size": "XL",
+    "quantity": 5
+  },
+  {
+    "id": 282,
+    "product_id": "school-of-architecture-fleece-sweater",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 283,
+    "product_id": "school-of-art-1-4-zip",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 284,
+    "product_id": "school-of-art-1-4-zip",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 285,
+    "product_id": "school-of-art-1-4-zip",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 286,
+    "product_id": "school-of-art-1-4-zip",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 287,
+    "product_id": "school-of-art-1-4-zip",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 288,
+    "product_id": "school-of-art-1-4-zip",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 289,
+    "product_id": "school-of-art-fleece-sweater",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 290,
+    "product_id": "school-of-art-fleece-sweater",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 291,
+    "product_id": "school-of-art-fleece-sweater",
+    "size": "M",
+    "quantity": 20
+  },
+  {
+    "id": 292,
+    "product_id": "school-of-art-fleece-sweater",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 293,
+    "product_id": "school-of-art-fleece-sweater",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 294,
+    "product_id": "school-of-art-fleece-sweater",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 295,
+    "product_id": "school-of-engineering-1-4-zip",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 296,
+    "product_id": "school-of-engineering-1-4-zip",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 297,
+    "product_id": "school-of-engineering-1-4-zip",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 298,
+    "product_id": "school-of-engineering-1-4-zip",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 299,
+    "product_id": "school-of-engineering-1-4-zip",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 300,
+    "product_id": "school-of-engineering-1-4-zip",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 301,
+    "product_id": "school-of-management-crest-t-shirt",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 302,
+    "product_id": "school-of-management-crest-t-shirt",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 303,
+    "product_id": "school-of-management-crest-t-shirt",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 304,
+    "product_id": "school-of-management-crest-t-shirt",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 305,
+    "product_id": "school-of-management-crest-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 306,
+    "product_id": "school-of-management-crest-t-shirt",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 307,
+    "product_id": "school-of-medicine-1-4-zip",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 308,
+    "product_id": "school-of-medicine-1-4-zip",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 309,
+    "product_id": "school-of-medicine-1-4-zip",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 310,
+    "product_id": "school-of-medicine-1-4-zip",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 311,
+    "product_id": "school-of-medicine-1-4-zip",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 312,
+    "product_id": "school-of-medicine-1-4-zip",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 313,
+    "product_id": "school-of-music-fleece-sweater",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 314,
+    "product_id": "school-of-music-fleece-sweater",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 315,
+    "product_id": "school-of-music-fleece-sweater",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 316,
+    "product_id": "school-of-music-fleece-sweater",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 317,
+    "product_id": "school-of-music-fleece-sweater",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 318,
+    "product_id": "school-of-music-fleece-sweater",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 319,
+    "product_id": "school-of-nursing-crest-t-shirt",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 320,
+    "product_id": "school-of-nursing-crest-t-shirt",
+    "size": "S",
+    "quantity": 5
+  },
+  {
+    "id": 321,
+    "product_id": "school-of-nursing-crest-t-shirt",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 322,
+    "product_id": "school-of-nursing-crest-t-shirt",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 323,
+    "product_id": "school-of-nursing-crest-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 324,
+    "product_id": "school-of-nursing-crest-t-shirt",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 325,
+    "product_id": "school-of-public-health-1-4-zip",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 326,
+    "product_id": "school-of-public-health-1-4-zip",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 327,
+    "product_id": "school-of-public-health-1-4-zip",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 328,
+    "product_id": "school-of-public-health-1-4-zip",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 329,
+    "product_id": "school-of-public-health-1-4-zip",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 330,
+    "product_id": "school-of-public-health-1-4-zip",
+    "size": "XXL",
+    "quantity": 8
+  },
+  {
+    "id": 331,
+    "product_id": "soccer-left-chest-crewneck",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 332,
+    "product_id": "soccer-left-chest-crewneck",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 333,
+    "product_id": "soccer-left-chest-crewneck",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 334,
+    "product_id": "soccer-left-chest-crewneck",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 335,
+    "product_id": "soccer-left-chest-crewneck",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 336,
+    "product_id": "soccer-left-chest-crewneck",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 337,
+    "product_id": "squash-left-chest-hoodie",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 338,
+    "product_id": "squash-left-chest-hoodie",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 339,
+    "product_id": "squash-left-chest-hoodie",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 340,
+    "product_id": "squash-left-chest-hoodie",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 341,
+    "product_id": "squash-left-chest-hoodie",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 342,
+    "product_id": "squash-left-chest-hoodie",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 343,
+    "product_id": "squash-left-chest-tennis",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 344,
+    "product_id": "squash-left-chest-tennis",
+    "size": "S",
+    "quantity": 20
+  },
+  {
+    "id": 345,
+    "product_id": "squash-left-chest-tennis",
+    "size": "M",
+    "quantity": 20
+  },
+  {
+    "id": 346,
+    "product_id": "squash-left-chest-tennis",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 347,
+    "product_id": "squash-left-chest-tennis",
+    "size": "XL",
+    "quantity": 5
+  },
+  {
+    "id": 348,
+    "product_id": "squash-left-chest-tennis",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 349,
+    "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 350,
+    "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 351,
+    "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 352,
+    "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 353,
+    "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 354,
+    "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 355,
+    "product_id": "t-felt-y-heavyweight",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 356,
+    "product_id": "t-felt-y-heavyweight",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 357,
+    "product_id": "t-felt-y-heavyweight",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 358,
+    "product_id": "t-felt-y-heavyweight",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 359,
+    "product_id": "t-felt-y-heavyweight",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 360,
+    "product_id": "t-felt-y-heavyweight",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 361,
+    "product_id": "the-forest-school-hoodie",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 362,
+    "product_id": "the-forest-school-hoodie",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 363,
+    "product_id": "the-forest-school-hoodie",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 364,
+    "product_id": "the-forest-school-hoodie",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 365,
+    "product_id": "the-forest-school-hoodie",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 366,
+    "product_id": "the-forest-school-hoodie",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 367,
+    "product_id": "timothy-dwight-college-crewneck",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 368,
+    "product_id": "timothy-dwight-college-crewneck",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 369,
+    "product_id": "timothy-dwight-college-crewneck",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 370,
+    "product_id": "timothy-dwight-college-crewneck",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 371,
+    "product_id": "timothy-dwight-college-crewneck",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 372,
+    "product_id": "timothy-dwight-college-crewneck",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 373,
+    "product_id": "track-field-left-chest-t-shirt",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 374,
+    "product_id": "track-field-left-chest-t-shirt",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 375,
+    "product_id": "track-field-left-chest-t-shirt",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 376,
+    "product_id": "track-field-left-chest-t-shirt",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 377,
+    "product_id": "track-field-left-chest-t-shirt",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 378,
+    "product_id": "track-field-left-chest-t-shirt",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 379,
+    "product_id": "tri-blend-sports-baseball-t-shirt",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 380,
+    "product_id": "tri-blend-sports-baseball-t-shirt",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 381,
+    "product_id": "tri-blend-sports-baseball-t-shirt",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 382,
+    "product_id": "tri-blend-sports-baseball-t-shirt",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 383,
+    "product_id": "tri-blend-sports-baseball-t-shirt",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 384,
+    "product_id": "tri-blend-sports-baseball-t-shirt",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 385,
+    "product_id": "tri-blend-sports-basketball-t-shirt",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 386,
+    "product_id": "tri-blend-sports-basketball-t-shirt",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 387,
+    "product_id": "tri-blend-sports-basketball-t-shirt",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 388,
+    "product_id": "tri-blend-sports-basketball-t-shirt",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 389,
+    "product_id": "tri-blend-sports-basketball-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 390,
+    "product_id": "tri-blend-sports-basketball-t-shirt",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 391,
+    "product_id": "tri-blend-sports-football-t-shirt",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 392,
+    "product_id": "tri-blend-sports-football-t-shirt",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 393,
+    "product_id": "tri-blend-sports-football-t-shirt",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 394,
+    "product_id": "tri-blend-sports-football-t-shirt",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 395,
+    "product_id": "tri-blend-sports-football-t-shirt",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 396,
+    "product_id": "tri-blend-sports-football-t-shirt",
+    "size": "XXL",
+    "quantity": 8
+  },
+  {
+    "id": 397,
+    "product_id": "tri-blend-sports-hockey-t-shirt",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 398,
+    "product_id": "tri-blend-sports-hockey-t-shirt",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 399,
+    "product_id": "tri-blend-sports-hockey-t-shirt",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 400,
+    "product_id": "tri-blend-sports-hockey-t-shirt",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 401,
+    "product_id": "tri-blend-sports-hockey-t-shirt",
+    "size": "XL",
+    "quantity": 5
+  },
+  {
+    "id": 402,
+    "product_id": "tri-blend-sports-hockey-t-shirt",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 403,
+    "product_id": "tri-blend-sports-soccer-t-shirt",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 404,
+    "product_id": "tri-blend-sports-soccer-t-shirt",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 405,
+    "product_id": "tri-blend-sports-soccer-t-shirt",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 406,
+    "product_id": "tri-blend-sports-soccer-t-shirt",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 407,
+    "product_id": "tri-blend-sports-soccer-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 408,
+    "product_id": "tri-blend-sports-soccer-t-shirt",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 409,
+    "product_id": "tri-blend-sports-tennis-t-shirt",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 410,
+    "product_id": "tri-blend-sports-tennis-t-shirt",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 411,
+    "product_id": "tri-blend-sports-tennis-t-shirt",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 412,
+    "product_id": "tri-blend-sports-tennis-t-shirt",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 413,
+    "product_id": "tri-blend-sports-tennis-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 414,
+    "product_id": "tri-blend-sports-tennis-t-shirt",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 415,
+    "product_id": "tri-blend-sports-track-and-field-t-shirt",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 416,
+    "product_id": "tri-blend-sports-track-and-field-t-shirt",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 417,
+    "product_id": "tri-blend-sports-track-and-field-t-shirt",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 418,
+    "product_id": "tri-blend-sports-track-and-field-t-shirt",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 419,
+    "product_id": "tri-blend-sports-track-and-field-t-shirt",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 420,
+    "product_id": "tri-blend-sports-track-and-field-t-shirt",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 421,
+    "product_id": "trumbull-1-4-zip",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 422,
+    "product_id": "trumbull-1-4-zip",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 423,
+    "product_id": "trumbull-1-4-zip",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 424,
+    "product_id": "trumbull-1-4-zip",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 425,
+    "product_id": "trumbull-1-4-zip",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 426,
+    "product_id": "trumbull-1-4-zip",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 427,
+    "product_id": "ua-gameday-double-knit-hood",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 428,
+    "product_id": "ua-gameday-double-knit-hood",
+    "size": "S",
+    "quantity": 20
+  },
+  {
+    "id": 429,
+    "product_id": "ua-gameday-double-knit-hood",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 430,
+    "product_id": "ua-gameday-double-knit-hood",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 431,
+    "product_id": "ua-gameday-double-knit-hood",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 432,
+    "product_id": "ua-gameday-double-knit-hood",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 433,
+    "product_id": "ua-mens-tech-l-s-2-0",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 434,
+    "product_id": "ua-mens-tech-l-s-2-0",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 435,
+    "product_id": "ua-mens-tech-l-s-2-0",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 436,
+    "product_id": "ua-mens-tech-l-s-2-0",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 437,
+    "product_id": "ua-mens-tech-l-s-2-0",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 438,
+    "product_id": "ua-mens-tech-l-s-2-0",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 439,
+    "product_id": "volleyball-left-chest-hoodie",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 440,
+    "product_id": "volleyball-left-chest-hoodie",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 441,
+    "product_id": "volleyball-left-chest-hoodie",
+    "size": "M",
+    "quantity": 2
+  },
+  {
+    "id": 442,
+    "product_id": "volleyball-left-chest-hoodie",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 443,
+    "product_id": "volleyball-left-chest-hoodie",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 444,
+    "product_id": "volleyball-left-chest-hoodie",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 445,
+    "product_id": "yale-aunt-hoodie",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 446,
+    "product_id": "yale-aunt-hoodie",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 447,
+    "product_id": "yale-aunt-hoodie",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 448,
+    "product_id": "yale-aunt-hoodie",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 449,
+    "product_id": "yale-aunt-hoodie",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 450,
+    "product_id": "yale-aunt-hoodie",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 451,
+    "product_id": "yale-bowl-t-shirt",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 452,
+    "product_id": "yale-bowl-t-shirt",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 453,
+    "product_id": "yale-bowl-t-shirt",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 454,
+    "product_id": "yale-bowl-t-shirt",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 455,
+    "product_id": "yale-bowl-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 456,
+    "product_id": "yale-bowl-t-shirt",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 457,
+    "product_id": "yale-brother-crewneck",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 458,
+    "product_id": "yale-brother-crewneck",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 459,
+    "product_id": "yale-brother-crewneck",
+    "size": "M",
+    "quantity": 2
+  },
+  {
+    "id": 460,
+    "product_id": "yale-brother-crewneck",
+    "size": "L",
+    "quantity": 2
+  },
+  {
+    "id": 461,
+    "product_id": "yale-brother-crewneck",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 462,
+    "product_id": "yale-brother-crewneck",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 463,
+    "product_id": "yale-cousin-crewneck",
+    "size": "XS",
+    "quantity": 2
+  },
+  {
+    "id": 464,
+    "product_id": "yale-cousin-crewneck",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 465,
+    "product_id": "yale-cousin-crewneck",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 466,
+    "product_id": "yale-cousin-crewneck",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 467,
+    "product_id": "yale-cousin-crewneck",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 468,
+    "product_id": "yale-cousin-crewneck",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 469,
+    "product_id": "yale-dad-crewneck",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 470,
+    "product_id": "yale-dad-crewneck",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 471,
+    "product_id": "yale-dad-crewneck",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 472,
+    "product_id": "yale-dad-crewneck",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 473,
+    "product_id": "yale-dad-crewneck",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 474,
+    "product_id": "yale-dad-crewneck",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 475,
+    "product_id": "yale-dad-hoodie",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 476,
+    "product_id": "yale-dad-hoodie",
+    "size": "S",
+    "quantity": 5
+  },
+  {
+    "id": 477,
+    "product_id": "yale-dad-hoodie",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 478,
+    "product_id": "yale-dad-hoodie",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 479,
+    "product_id": "yale-dad-hoodie",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 480,
+    "product_id": "yale-dad-hoodie",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 481,
+    "product_id": "yale-dad-t-shirt",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 482,
+    "product_id": "yale-dad-t-shirt",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 483,
+    "product_id": "yale-dad-t-shirt",
+    "size": "M",
+    "quantity": 20
+  },
+  {
+    "id": 484,
+    "product_id": "yale-dad-t-shirt",
+    "size": "L",
+    "quantity": 15
+  },
+  {
+    "id": 485,
+    "product_id": "yale-dad-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 486,
+    "product_id": "yale-dad-t-shirt",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 487,
+    "product_id": "yale-diving-t-shirt",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 488,
+    "product_id": "yale-diving-t-shirt",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 489,
+    "product_id": "yale-diving-t-shirt",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 490,
+    "product_id": "yale-diving-t-shirt",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 491,
+    "product_id": "yale-diving-t-shirt",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 492,
+    "product_id": "yale-diving-t-shirt",
+    "size": "XXL",
+    "quantity": 15
+  },
+  {
+    "id": 493,
+    "product_id": "yale-grandma-hoodie",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 494,
+    "product_id": "yale-grandma-hoodie",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 495,
+    "product_id": "yale-grandma-hoodie",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 496,
+    "product_id": "yale-grandma-hoodie",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 497,
+    "product_id": "yale-grandma-hoodie",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 498,
+    "product_id": "yale-grandma-hoodie",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 499,
+    "product_id": "yale-grandpa-crewneck",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 500,
+    "product_id": "yale-grandpa-crewneck",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 501,
+    "product_id": "yale-grandpa-crewneck",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 502,
+    "product_id": "yale-grandpa-crewneck",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 503,
+    "product_id": "yale-grandpa-crewneck",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 504,
+    "product_id": "yale-grandpa-crewneck",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 505,
+    "product_id": "yale-grandpa-hoodie",
+    "size": "XS",
+    "quantity": 5
+  },
+  {
+    "id": 506,
+    "product_id": "yale-grandpa-hoodie",
+    "size": "S",
+    "quantity": 20
+  },
+  {
+    "id": 507,
+    "product_id": "yale-grandpa-hoodie",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 508,
+    "product_id": "yale-grandpa-hoodie",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 509,
+    "product_id": "yale-grandpa-hoodie",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 510,
+    "product_id": "yale-grandpa-hoodie",
+    "size": "XXL",
+    "quantity": 12
+  },
+  {
+    "id": 511,
+    "product_id": "yale-law-school-1-4-zip",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 512,
+    "product_id": "yale-law-school-1-4-zip",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 513,
+    "product_id": "yale-law-school-1-4-zip",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 514,
+    "product_id": "yale-law-school-1-4-zip",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 515,
+    "product_id": "yale-law-school-1-4-zip",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 516,
+    "product_id": "yale-law-school-1-4-zip",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 517,
+    "product_id": "yale-maplehouse-diana-mockneck",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 518,
+    "product_id": "yale-maplehouse-diana-mockneck",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 519,
+    "product_id": "yale-maplehouse-diana-mockneck",
+    "size": "M",
+    "quantity": 2
+  },
+  {
+    "id": 520,
+    "product_id": "yale-maplehouse-diana-mockneck",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 521,
+    "product_id": "yale-maplehouse-diana-mockneck",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 522,
+    "product_id": "yale-maplehouse-diana-mockneck",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 523,
+    "product_id": "yale-mom-crewneck",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 524,
+    "product_id": "yale-mom-crewneck",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 525,
+    "product_id": "yale-mom-crewneck",
+    "size": "M",
+    "quantity": 12
+  },
+  {
+    "id": 526,
+    "product_id": "yale-mom-crewneck",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 527,
+    "product_id": "yale-mom-crewneck",
+    "size": "XL",
+    "quantity": 15
+  },
+  {
+    "id": 528,
+    "product_id": "yale-mom-crewneck",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 529,
+    "product_id": "yale-mom-hoodie",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 530,
+    "product_id": "yale-mom-hoodie",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 531,
+    "product_id": "yale-mom-hoodie",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 532,
+    "product_id": "yale-mom-hoodie",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 533,
+    "product_id": "yale-mom-hoodie",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 534,
+    "product_id": "yale-mom-hoodie",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 535,
+    "product_id": "yale-sports-creqneck-field-hockey",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 536,
+    "product_id": "yale-sports-creqneck-field-hockey",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 537,
+    "product_id": "yale-sports-creqneck-field-hockey",
+    "size": "M",
+    "quantity": 15
+  },
+  {
+    "id": 538,
+    "product_id": "yale-sports-creqneck-field-hockey",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 539,
+    "product_id": "yale-sports-creqneck-field-hockey",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 540,
+    "product_id": "yale-sports-creqneck-field-hockey",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 541,
+    "product_id": "yale-sports-crewneck-baseball",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 542,
+    "product_id": "yale-sports-crewneck-baseball",
+    "size": "S",
+    "quantity": 20
+  },
+  {
+    "id": 543,
+    "product_id": "yale-sports-crewneck-baseball",
+    "size": "M",
+    "quantity": 20
+  },
+  {
+    "id": 544,
+    "product_id": "yale-sports-crewneck-baseball",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 545,
+    "product_id": "yale-sports-crewneck-baseball",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 546,
+    "product_id": "yale-sports-crewneck-baseball",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 547,
+    "product_id": "yale-sports-crewneck-golf",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 548,
+    "product_id": "yale-sports-crewneck-golf",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 549,
+    "product_id": "yale-sports-crewneck-golf",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 550,
+    "product_id": "yale-sports-crewneck-golf",
+    "size": "L",
+    "quantity": 5
+  },
+  {
+    "id": 551,
+    "product_id": "yale-sports-crewneck-golf",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 552,
+    "product_id": "yale-sports-crewneck-golf",
+    "size": "XXL",
+    "quantity": 8
+  },
+  {
+    "id": 553,
+    "product_id": "yale-sports-crewneck-volleyball",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 554,
+    "product_id": "yale-sports-crewneck-volleyball",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 555,
+    "product_id": "yale-sports-crewneck-volleyball",
+    "size": "M",
+    "quantity": 2
+  },
+  {
+    "id": 556,
+    "product_id": "yale-sports-crewneck-volleyball",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 557,
+    "product_id": "yale-sports-crewneck-volleyball",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 558,
+    "product_id": "yale-sports-crewneck-volleyball",
+    "size": "XXL",
+    "quantity": 5
+  },
+  {
+    "id": 559,
+    "product_id": "yale-sports-hoodie-baseball",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 560,
+    "product_id": "yale-sports-hoodie-baseball",
+    "size": "S",
+    "quantity": 5
+  },
+  {
+    "id": 561,
+    "product_id": "yale-sports-hoodie-baseball",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 562,
+    "product_id": "yale-sports-hoodie-baseball",
+    "size": "L",
+    "quantity": 20
+  },
+  {
+    "id": 563,
+    "product_id": "yale-sports-hoodie-baseball",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 564,
+    "product_id": "yale-sports-hoodie-baseball",
+    "size": "XXL",
+    "quantity": 8
+  },
+  {
+    "id": 565,
+    "product_id": "yale-sports-hoodie-diving",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 566,
+    "product_id": "yale-sports-hoodie-diving",
+    "size": "S",
+    "quantity": 2
+  },
+  {
+    "id": 567,
+    "product_id": "yale-sports-hoodie-diving",
+    "size": "M",
+    "quantity": 2
+  },
+  {
+    "id": 568,
+    "product_id": "yale-sports-hoodie-diving",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 569,
+    "product_id": "yale-sports-hoodie-diving",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 570,
+    "product_id": "yale-sports-hoodie-diving",
+    "size": "XXL",
+    "quantity": 0
+  },
+  {
+    "id": 571,
+    "product_id": "yale-sports-hoodie-golf",
+    "size": "XS",
+    "quantity": 15
+  },
+  {
+    "id": 572,
+    "product_id": "yale-sports-hoodie-golf",
+    "size": "S",
+    "quantity": 25
+  },
+  {
+    "id": 573,
+    "product_id": "yale-sports-hoodie-golf",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 574,
+    "product_id": "yale-sports-hoodie-golf",
+    "size": "L",
+    "quantity": 0
+  },
+  {
+    "id": 575,
+    "product_id": "yale-sports-hoodie-golf",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 576,
+    "product_id": "yale-sports-hoodie-golf",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 577,
+    "product_id": "yale-sports-hoodie-hockey",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 578,
+    "product_id": "yale-sports-hoodie-hockey",
+    "size": "S",
+    "quantity": 15
+  },
+  {
+    "id": 579,
+    "product_id": "yale-sports-hoodie-hockey",
+    "size": "M",
+    "quantity": 5
+  },
+  {
+    "id": 580,
+    "product_id": "yale-sports-hoodie-hockey",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 581,
+    "product_id": "yale-sports-hoodie-hockey",
+    "size": "XL",
+    "quantity": 25
+  },
+  {
+    "id": 582,
+    "product_id": "yale-sports-hoodie-hockey",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 583,
+    "product_id": "yale-sports-hoodie-soccer",
+    "size": "XS",
+    "quantity": 20
+  },
+  {
+    "id": 584,
+    "product_id": "yale-sports-hoodie-soccer",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 585,
+    "product_id": "yale-sports-hoodie-soccer",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 586,
+    "product_id": "yale-sports-hoodie-soccer",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 587,
+    "product_id": "yale-sports-hoodie-soccer",
+    "size": "XL",
+    "quantity": 8
+  },
+  {
+    "id": 588,
+    "product_id": "yale-sports-hoodie-soccer",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 589,
+    "product_id": "yale-sports-hoodie-swimming",
+    "size": "XS",
+    "quantity": 12
+  },
+  {
+    "id": 590,
+    "product_id": "yale-sports-hoodie-swimming",
+    "size": "S",
+    "quantity": 12
+  },
+  {
+    "id": 591,
+    "product_id": "yale-sports-hoodie-swimming",
+    "size": "M",
+    "quantity": 0
+  },
+  {
+    "id": 592,
+    "product_id": "yale-sports-hoodie-swimming",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 593,
+    "product_id": "yale-sports-hoodie-swimming",
+    "size": "XL",
+    "quantity": 0
+  },
+  {
+    "id": 594,
+    "product_id": "yale-sports-hoodie-swimming",
+    "size": "XXL",
+    "quantity": 25
+  },
+  {
+    "id": 595,
+    "product_id": "yale-sports-hoodie-tennis",
+    "size": "XS",
+    "quantity": 8
+  },
+  {
+    "id": 596,
+    "product_id": "yale-sports-hoodie-tennis",
+    "size": "S",
+    "quantity": 8
+  },
+  {
+    "id": 597,
+    "product_id": "yale-sports-hoodie-tennis",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 598,
+    "product_id": "yale-sports-hoodie-tennis",
+    "size": "L",
+    "quantity": 12
+  },
+  {
+    "id": 599,
+    "product_id": "yale-sports-hoodie-tennis",
+    "size": "XL",
+    "quantity": 12
+  },
+  {
+    "id": 600,
+    "product_id": "yale-sports-hoodie-tennis",
+    "size": "XXL",
+    "quantity": 2
+  },
+  {
+    "id": 601,
+    "product_id": "yale-sports-t-shirt-field-hockey",
+    "size": "XS",
+    "quantity": 0
+  },
+  {
+    "id": 602,
+    "product_id": "yale-sports-t-shirt-field-hockey",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 603,
+    "product_id": "yale-sports-t-shirt-field-hockey",
+    "size": "M",
+    "quantity": 25
+  },
+  {
+    "id": 604,
+    "product_id": "yale-sports-t-shirt-field-hockey",
+    "size": "L",
+    "quantity": 25
+  },
+  {
+    "id": 605,
+    "product_id": "yale-sports-t-shirt-field-hockey",
+    "size": "XL",
+    "quantity": 20
+  },
+  {
+    "id": 606,
+    "product_id": "yale-sports-t-shirt-field-hockey",
+    "size": "XXL",
+    "quantity": 20
+  },
+  {
+    "id": 607,
+    "product_id": "yale-uncle-hoodie",
+    "size": "XS",
+    "quantity": 25
+  },
+  {
+    "id": 608,
+    "product_id": "yale-uncle-hoodie",
+    "size": "S",
+    "quantity": 0
+  },
+  {
+    "id": 609,
+    "product_id": "yale-uncle-hoodie",
+    "size": "M",
+    "quantity": 8
+  },
+  {
+    "id": 610,
+    "product_id": "yale-uncle-hoodie",
+    "size": "L",
+    "quantity": 8
+  },
+  {
+    "id": 611,
+    "product_id": "yale-uncle-hoodie",
+    "size": "XL",
+    "quantity": 5
+  },
+  {
+    "id": 612,
+    "product_id": "yale-uncle-hoodie",
+    "size": "XXL",
+    "quantity": 0
+  }
+]

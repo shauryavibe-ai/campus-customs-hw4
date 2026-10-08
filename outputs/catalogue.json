@@ -1,0 +1,2390 @@
+[
+  {
+    "product_id": "2025-yale-vs-harvard-t-shirt",
+    "name": "2025 Yale Vs Harvard T Shirt",
+    "garment_type": "short-sleeve T-shirt",
+    "description": "Heather gray short-sleeve T-shirt featuring a 2025 Harvard-Yale The Game graphic, with red Harvard and navy Yale football helmets facing each other and collegiate team marks.",
+    "colors": [
+      "heather gray",
+      "white",
+      "red",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Harvard",
+      "The Game",
+      "2025",
+      "Harvard Yale football",
+      "college rivalry",
+      "football helmet graphic",
+      "gray T-shirt",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/2025-yale-vs-harvard-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "baseball-left-chest-crewneck",
+    "name": "Baseball Left Chest Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband, featuring a white YALE BASEBALL wordmark on the left chest.",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "baseball",
+      "crewneck",
+      "sweatshirt",
+      "navy sweatshirt",
+      "left chest logo",
+      "long sleeve",
+      "college merch"
+    ],
+    "image_file_path": "products/baseball-left-chest-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "basic-hoodie-big-yale",
+    "name": "Basic Hoodie Big Yale",
+    "garment_type": "pullover hoodie",
+    "description": "Navy pullover hoodie with a front kangaroo pocket, drawstring hood, and large white YALE lettering across the chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale hoodie",
+      "navy hoodie",
+      "college sweatshirt",
+      "pullover hoodie",
+      "YALE lettering",
+      "Campus Customs",
+      "Yale merch"
+    ],
+    "image_file_path": "products/basic-hoodie-big-yale.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "benjamin-franklin-1-4-zip",
+    "name": "Benjamin Franklin 1 4 Zip",
+    "garment_type": "quarter-zip pullover sweatshirt",
+    "description": "Heather gray long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, and a small multicolor Benjamin Franklin College crest with college name on the left chest.",
+    "colors": [
+      "heather gray",
+      "blue",
+      "red",
+      "white"
+    ],
+    "search_tags": [
+      "Benjamin Franklin College",
+      "Yale",
+      "quarter zip",
+      "1/4 zip",
+      "pullover",
+      "sweatshirt",
+      "gray sweatshirt",
+      "college crest",
+      "shield logo",
+      "long sleeve"
+    ],
+    "image_file_path": "products/benjamin-franklin-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "benjamin-franklin-fleece-jacket",
+    "name": "Benjamin Franklin Fleece Jacket",
+    "garment_type": "full-zip fleece jacket",
+    "description": "Light gray heathered fleece jacket with a full-length dark gray zipper, stand collar, zippered hand pockets, and a small multicolor Benjamin Franklin crest with text on the left chest.",
+    "colors": [
+      "gray",
+      "blue",
+      "red",
+      "white"
+    ],
+    "search_tags": [
+      "Benjamin Franklin",
+      "fleece jacket",
+      "full zip",
+      "gray jacket",
+      "heather gray",
+      "stand collar",
+      "zippered pockets",
+      "crest logo",
+      "Campus Customs",
+      "Yale merch"
+    ],
+    "image_file_path": "products/benjamin-franklin-fleece-jacket.jpg",
+    "price": 98.0
+  },
+  {
+    "product_id": "benjamin-franklin-t-shirt",
+    "name": "Benjamin Franklin T Shirt",
+    "garment_type": "t-shirt",
+    "description": "Campus Customs product photo (benjamin franklin t shirt). Vision blocked; filename-based stub.",
+    "colors": [],
+    "search_tags": [
+      "benjamin",
+      "franklin",
+      "t",
+      "shirt"
+    ],
+    "image_file_path": "products/benjamin-franklin-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "berkeley-1-4-zip",
+    "name": "Berkeley 1 4 Zip",
+    "garment_type": "quarter-zip pullover sweatshirt",
+    "description": "Heather gray long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, and a red Berkeley shield crest with Berkeley text on the left chest.",
+    "colors": [
+      "heather gray",
+      "red"
+    ],
+    "search_tags": [
+      "Berkeley",
+      "quarter zip",
+      "pullover",
+      "sweatshirt",
+      "heather gray",
+      "red crest",
+      "college apparel",
+      "left chest logo",
+      "long sleeve"
+    ],
+    "image_file_path": "products/berkeley-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "berkeley-sweater-fleece-jacket",
+    "name": "Berkeley Sweater Fleece Jacket",
+    "garment_type": "jacket",
+    "description": "Campus Customs product photo (berkeley sweater fleece jacket). Vision blocked; filename-based stub.",
+    "colors": [],
+    "search_tags": [
+      "berkeley",
+      "sweater",
+      "fleece",
+      "jacket"
+    ],
+    "image_file_path": "products/berkeley-sweater-fleece-jacket.jpg",
+    "price": 98.0
+  },
+  {
+    "product_id": "big-yale-tri-blend-t-shirt",
+    "name": "Big Yale Tri Blend T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Dusty coral short-sleeve tri-blend t-shirt with a large white YALE wordmark across the chest.",
+    "colors": [
+      "dusty coral",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "college apparel",
+      "campus merch",
+      "tri-blend t-shirt",
+      "short sleeve",
+      "coral shirt",
+      "white Yale lettering",
+      "graphic tee"
+    ],
+    "image_file_path": "products/big-yale-tri-blend-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "boola-boola-t-shirt",
+    "name": "Boola Boola T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Navy short-sleeve T-shirt featuring a bold distressed white and gray bubble-letter BOOLA BOOLA graphic centered on the chest.",
+    "colors": [
+      "navy",
+      "white",
+      "gray"
+    ],
+    "search_tags": [
+      "Yale",
+      "Boola Boola",
+      "navy t-shirt",
+      "graphic tee",
+      "college apparel",
+      "short sleeve",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/boola-boola-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "branford-1-4-zip",
+    "name": "Branford 1 4 Zip",
+    "garment_type": "quarter-zip pullover",
+    "description": "Heather gray long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, and a multicolor Branford College crest on the left chest.",
+    "colors": [
+      "heather gray",
+      "green",
+      "yellow",
+      "blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Branford College",
+      "quarter zip",
+      "pullover",
+      "gray sweatshirt",
+      "crest",
+      "college apparel",
+      "long sleeve"
+    ],
+    "image_file_path": "products/branford-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "brooks-brothers-bomber-jacket-yale",
+    "name": "Brooks Brothers Bomber Jacket Yale",
+    "garment_type": "bomber jacket",
+    "description": "Dark navy full-zip bomber jacket with a stand collar, ribbed cuffs and waistband, angled flap pockets, and a white YALE wordmark on the left chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "bomber jacket",
+      "navy jacket",
+      "Brooks Brothers",
+      "college apparel",
+      "university merch",
+      "full zip jacket",
+      "ribbed cuffs",
+      "YALE wordmark"
+    ],
+    "image_file_path": "products/brooks-brothers-bomber-jacket-yale.jpg",
+    "price": 98.0
+  },
+  {
+    "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+    "name": "Brooks Brothers Double Knit Full Zip Hoodie Yale",
+    "garment_type": "full-zip hooded sweatshirt",
+    "description": "Navy Brooks Brothers double-knit full-zip hoodie with drawstring hood, front zip closure, kangaroo pockets, ribbed cuffs and hem, and a white YALE wordmark on the left chest.",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Brooks Brothers",
+      "navy hoodie",
+      "full-zip hoodie",
+      "zip-up sweatshirt",
+      "double-knit",
+      "hooded sweatshirt",
+      "college apparel",
+      "Ivy League",
+      "white Yale logo"
+    ],
+    "image_file_path": "products/brooks-brothers-double-knit-full-zip-hoodie-yale.jpg",
+    "price": 88.0
+  },
+  {
+    "product_id": "champion-full-zip-hood",
+    "name": "Champion Full Zip Hood",
+    "garment_type": "full-zip hooded sweatshirt",
+    "description": "Charcoal gray Champion full-zip hoodie with drawstring hood, front kangaroo pockets, ribbed cuffs and hem, and large white-and-navy YALE lettering across the chest.",
+    "colors": [
+      "charcoal gray",
+      "white",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale hoodie",
+      "Champion hoodie",
+      "full zip hoodie",
+      "gray sweatshirt",
+      "charcoal hoodie",
+      "college apparel",
+      "Yale University",
+      "hooded sweatshirt",
+      "YALE lettering"
+    ],
+    "image_file_path": "products/champion-full-zip-hood.jpg",
+    "price": 88.0
+  },
+  {
+    "product_id": "champion-mens-triumph-raglan-crew",
+    "name": "Champion Mens Triumph Raglan Crew",
+    "garment_type": "raglan crewneck sweatshirt",
+    "description": "Men's dark heather gray Champion raglan crewneck sweatshirt with bold white YALE lettering and EST. 1701 beneath it, ribbed collar, cuffs, and waistband.",
+    "colors": [
+      "dark heather gray",
+      "white"
+    ],
+    "search_tags": [
+      "Yale sweatshirt",
+      "Champion",
+      "men's crewneck",
+      "raglan sweatshirt",
+      "gray sweatshirt",
+      "dark heather gray",
+      "Yale EST. 1701",
+      "college sweatshirt",
+      "Ivy League merch"
+    ],
+    "image_file_path": "products/champion-mens-triumph-raglan-crew.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "champion-reverse-weave-crewneck",
+    "name": "Champion Reverse Weave Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Light gray Champion Reverse Weave crewneck sweatshirt featuring large arched navy YALE lettering across the chest, ribbed collar, cuffs, and waistband.",
+    "colors": [
+      "light gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale sweatshirt",
+      "Champion",
+      "Reverse Weave",
+      "crewneck",
+      "gray sweatshirt",
+      "navy lettering",
+      "college apparel",
+      "Yale merch"
+    ],
+    "image_file_path": "products/champion-reverse-weave-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "champion-reverse-weave-hoodie-1",
+    "name": "Champion Reverse Weave Hoodie 1",
+    "garment_type": "hoodie",
+    "description": "Navy pullover hoodie with a white arched YALE graphic across the chest, drawstring hood, front kangaroo pocket, ribbed cuffs and waistband, and a small Champion C logo on the sleeve.",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale hoodie",
+      "Champion hoodie",
+      "reverse weave hoodie",
+      "navy sweatshirt",
+      "college apparel",
+      "pullover hoodie",
+      "YALE logo",
+      "white lettering",
+      "kangaroo pocket"
+    ],
+    "image_file_path": "products/champion-reverse-weave-hoodie-1.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "crew-left-chest-hoodie",
+    "name": "Crew Left Chest Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hoodie with drawstring hood, kangaroo front pocket, ribbed cuffs and hem, and white YALE CREW lettering on the left chest.",
+    "colors": [
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Crew",
+      "hoodie",
+      "pullover",
+      "navy",
+      "blue",
+      "left chest graphic",
+      "kangaroo pocket",
+      "drawstring hood",
+      "college apparel"
+    ],
+    "image_file_path": "products/crew-left-chest-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "davenport-college-crewneck",
+    "name": "Davenport College Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. Features a small Davenport College crest and DAVENPORT text on the left chest.",
+    "colors": [
+      "heather gray",
+      "black",
+      "white"
+    ],
+    "search_tags": [
+      "Davenport College",
+      "Yale",
+      "crewneck",
+      "sweatshirt",
+      "gray sweatshirt",
+      "college merch",
+      "campus apparel",
+      "crest",
+      "left chest logo",
+      "long sleeve"
+    ],
+    "image_file_path": "products/davenport-college-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "district-tri-blend-t-shirt-vintage-shield",
+    "name": "District Tri Blend T Shirt Vintage Shield",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray tri-blend short-sleeve T-shirt featuring a centered vintage Yale shield crest in navy and white.",
+    "colors": [
+      "heather gray",
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Campus Customs",
+      "tri-blend",
+      "heather gray",
+      "gray t-shirt",
+      "short sleeve",
+      "Yale shield",
+      "Yale crest",
+      "vintage shield",
+      "college apparel"
+    ],
+    "image_file_path": "products/district-tri-blend-t-shirt-vintage-shield.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "district-vit-crewneck-vintage-bulldog",
+    "name": "District Vit Crewneck Vintage Bulldog",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Dark heather charcoal long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband, featuring a large white YALE wordmark and vintage bulldog illustration on the front.",
+    "colors": [
+      "dark heather charcoal",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "bulldog",
+      "vintage bulldog",
+      "crewneck",
+      "sweatshirt",
+      "college apparel",
+      "university merch",
+      "charcoal sweatshirt",
+      "white graphic"
+    ],
+    "image_file_path": "products/district-vit-crewneck-vintage-bulldog.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+    "name": "District Vit Crewneck Vintage Standing Bulldog",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Long-sleeve heather charcoal gray crewneck sweatshirt featuring a vintage-style white Yale bulldog graphic with navy accents and vertically stacked YALE lettering.",
+    "colors": [
+      "heather charcoal gray",
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "bulldog",
+      "standing bulldog",
+      "crewneck",
+      "sweatshirt",
+      "long sleeve",
+      "heather gray",
+      "charcoal",
+      "navy",
+      "white",
+      "college apparel",
+      "vintage style"
+    ],
+    "image_file_path": "products/district-vit-crewneck-vintage-standing-bulldog.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "district-vit-hoodie-vintage-bulldog",
+    "name": "District Vit Hoodie Vintage Bulldog",
+    "garment_type": "pullover hoodie",
+    "description": "Dark heather gray pullover hoodie with a white YALE wordmark and vintage bulldog graphic on the front, featuring a drawstring hood, kangaroo pocket, ribbed cuffs, and ribbed hem.",
+    "colors": [
+      "dark heather gray",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "bulldog",
+      "hoodie",
+      "pullover",
+      "gray hoodie",
+      "vintage bulldog",
+      "college apparel",
+      "graphic sweatshirt",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/district-vit-hoodie-vintage-bulldog.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+    "name": "District Vit Hoodie Vintage Sailor Bulldog",
+    "garment_type": "pullover hoodie",
+    "description": "Charcoal gray pullover hoodie with a front kangaroo pocket, ribbed cuffs and hem, and a white arched YALE wordmark above a vintage-style bulldog graphic wearing a sailor hat.",
+    "colors": [
+      "charcoal gray",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "bulldog",
+      "hoodie",
+      "pullover",
+      "charcoal gray",
+      "vintage",
+      "sailor hat",
+      "college apparel",
+      "graphic sweatshirt"
+    ],
+    "image_file_path": "products/district-vit-hoodie-vintage-sailor-bulldog.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "diving-left-chest-crewneck",
+    "name": "Diving Left Chest Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy blue long-sleeve crewneck sweatshirt with a ribbed collar, cuffs, and hem, featuring a white YALE DIVING wordmark on the left chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "diving",
+      "crewneck",
+      "sweatshirt",
+      "navy",
+      "long sleeve",
+      "left chest",
+      "college apparel",
+      "athletic wear"
+    ],
+    "image_file_path": "products/diving-left-chest-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "divinity-school-fleece-sweater",
+    "name": "Divinity School Fleece Sweater",
+    "garment_type": "full-zip fleece jacket",
+    "description": "Navy blue heathered fleece jacket with a stand collar, full front zipper, long sleeves, and Yale Divinity School text and crest on the left chest.",
+    "colors": [
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Divinity School",
+      "divinity school",
+      "fleece",
+      "fleece jacket",
+      "full zip",
+      "zip-up",
+      "navy",
+      "heathered",
+      "crest",
+      "school spirit",
+      "college apparel"
+    ],
+    "image_file_path": "products/divinity-school-fleece-sweater.jpg",
+    "price": 98.0
+  },
+  {
+    "product_id": "dry-zone-long-sleeve",
+    "name": "Dry Zone Long Sleeve",
+    "garment_type": "long-sleeve performance shirt",
+    "description": "Navy long-sleeve athletic performance shirt with bold white YALE lettering and BULLDOGS beneath it on the front.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Bulldogs",
+      "navy shirt",
+      "long sleeve",
+      "performance shirt",
+      "athletic apparel",
+      "sportswear",
+      "college merch"
+    ],
+    "image_file_path": "products/dry-zone-long-sleeve.jpg",
+    "price": 45.0
+  },
+  {
+    "product_id": "fencing-left-chest-hoodie",
+    "name": "Fencing Left Chest Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hoodie with drawstring hood, long sleeves, ribbed cuffs and hem, front kangaroo pocket, and white YALE FENCING lettering on the left chest.",
+    "colors": [
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "fencing",
+      "hoodie",
+      "pullover",
+      "navy",
+      "left chest",
+      "college apparel",
+      "kangaroo pocket",
+      "drawstring hood"
+    ],
+    "image_file_path": "products/fencing-left-chest-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "football-left-chest-t-shirt",
+    "name": "Football Left Chest T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Navy short-sleeve crew-neck t-shirt with a small white YALE FOOTBALL wordmark printed on the left chest.",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "football",
+      "navy t-shirt",
+      "college apparel",
+      "left chest logo",
+      "short sleeve",
+      "crew neck",
+      "Yale merch"
+    ],
+    "image_file_path": "products/football-left-chest-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "grace-hopper-college-crewneck",
+    "name": "Grace Hopper College Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy long-sleeve crewneck sweatshirt featuring a small Grace Hopper College crest and text on the left chest.",
+    "colors": [
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Grace Hopper College",
+      "college sweatshirt",
+      "crewneck",
+      "navy sweatshirt",
+      "crest",
+      "left chest logo",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/grace-hopper-college-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "grace-hopper-logo-t-shirt",
+    "name": "Grace Hopper Logo T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray short-sleeve crew-neck T-shirt featuring the Grace Hopper College crest centered on the chest, with black GRACE HOPPER COLLEGE text beneath.",
+    "colors": [
+      "heather gray",
+      "blue",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Grace Hopper College",
+      "college crest",
+      "shield logo",
+      "dragon crest",
+      "gray t-shirt",
+      "campus merch",
+      "short sleeve",
+      "crew neck",
+      "graphic tee"
+    ],
+    "image_file_path": "products/grace-hopper-logo-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "hype-and-vice-yale-university-offside-crewneck",
+    "name": "Hype And Vice Yale University Offside Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy Yale University crewneck sweatshirt with bold white block-letter YALE wordmark across the chest, ribbed collar, cuffs, and hem, and a small outlined sleeve logo.",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "crewneck",
+      "sweatshirt",
+      "pullover",
+      "navy sweatshirt",
+      "college apparel",
+      "university merch",
+      "YALE wordmark",
+      "Hype and Vice"
+    ],
+    "image_file_path": "products/hype-and-vice-yale-university-offside-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "hype-and-vice-yale-university-premium-crewneck",
+    "name": "Hype And Vice Yale University Premium Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "White Yale University premium crewneck sweatshirt with navy ribbed collar, cuffs, and waistband, collegiate lettering, and a centered Yale crest.",
+    "colors": [
+      "white",
+      "navy blue",
+      "gray",
+      "green",
+      "gold"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "college sweatshirt",
+      "crewneck",
+      "premium sweatshirt",
+      "white sweatshirt",
+      "navy trim",
+      "collegiate apparel",
+      "university merch",
+      "Ivy League"
+    ],
+    "image_file_path": "products/hype-and-vice-yale-university-premium-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "ice-hockey-left-chest-hoodie",
+    "name": "Ice Hockey Left Chest Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hooded sweatshirt with drawstrings, kangaroo pocket, long sleeves, and a white YALE HOCKEY graphic on the left chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "hockey",
+      "ice hockey",
+      "hoodie",
+      "pullover sweatshirt",
+      "navy hoodie",
+      "left chest logo",
+      "college sports",
+      "Yale merch"
+    ],
+    "image_file_path": "products/ice-hockey-left-chest-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "jonathan-edwards-college-crewneck",
+    "name": "Jonathan Edwards College Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt featuring a small Jonathan Edwards College crest and college name on the left chest.",
+    "colors": [
+      "heather gray",
+      "green",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Jonathan Edwards College",
+      "college sweatshirt",
+      "crewneck",
+      "gray sweatshirt",
+      "crest",
+      "campus apparel",
+      "long sleeve"
+    ],
+    "image_file_path": "products/jonathan-edwards-college-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "lacrosse-left-chest-crewneck",
+    "name": "Lacrosse Left Chest Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband, featuring a white YALE LACROSSE wordmark on the left chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "lacrosse",
+      "crewneck",
+      "sweatshirt",
+      "navy",
+      "left chest",
+      "long sleeve",
+      "college apparel",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/lacrosse-left-chest-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "morse-1-4-zip",
+    "name": "Morse 1 4 Zip",
+    "garment_type": "quarter-zip pullover sweatshirt",
+    "description": "Light heather gray long-sleeve quarter-zip pullover with stand collar, ribbed cuffs and hem, and a small Morse College crest on the left chest.",
+    "colors": [
+      "heather gray",
+      "white",
+      "red",
+      "black"
+    ],
+    "search_tags": [
+      "Morse College",
+      "Yale",
+      "quarter zip",
+      "1/4 zip",
+      "pullover",
+      "sweatshirt",
+      "gray",
+      "heather gray",
+      "crest",
+      "college apparel"
+    ],
+    "image_file_path": "products/morse-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "morse-logo-t-shirt",
+    "name": "Morse Logo T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray short-sleeve crew-neck T-shirt featuring the Morse College shield crest centered on the chest, with a red axe and black details above the words MORSE COLLEGE.",
+    "colors": [
+      "heather gray",
+      "white",
+      "black",
+      "red"
+    ],
+    "search_tags": [
+      "Yale",
+      "Morse College",
+      "college shirt",
+      "logo t-shirt",
+      "crest",
+      "gray t-shirt",
+      "short sleeve",
+      "crew neck",
+      "campus merch"
+    ],
+    "image_file_path": "products/morse-logo-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "pierson-college-crewneck",
+    "name": "Pierson College Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband, featuring a small Pierson College black-and-yellow shield crest on the left chest.",
+    "colors": [
+      "navy",
+      "black",
+      "yellow"
+    ],
+    "search_tags": [
+      "Pierson College",
+      "crewneck",
+      "sweatshirt",
+      "navy sweatshirt",
+      "college merch",
+      "Yale merch",
+      "shield crest",
+      "left chest logo",
+      "long sleeve"
+    ],
+    "image_file_path": "products/pierson-college-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "pierson-logo-t-shirt",
+    "name": "Pierson Logo T Shirt",
+    "garment_type": "short-sleeve T-shirt",
+    "description": "Heather gray short-sleeve crew-neck T-shirt with the Pierson College crest centered on the chest and 'PIERSON COLLEGE' printed beneath it.",
+    "colors": [
+      "heather gray",
+      "black",
+      "yellow"
+    ],
+    "search_tags": [
+      "Pierson College",
+      "Yale",
+      "college shirt",
+      "logo T-shirt",
+      "crest shirt",
+      "gray T-shirt",
+      "heather gray",
+      "short sleeve",
+      "crew neck"
+    ],
+    "image_file_path": "products/pierson-logo-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "poly-twill-crewneck-arched-yale",
+    "name": "Poly Twill Crewneck Arched Yale",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Classic cream crewneck sweatshirt with ribbed collar, cuffs, and waistband, featuring a large navy arched YALE wordmark on the front.",
+    "colors": [
+      "cream",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "crewneck",
+      "sweatshirt",
+      "pullover",
+      "cream sweatshirt",
+      "navy logo",
+      "arched Yale",
+      "college merch",
+      "Ivy League"
+    ],
+    "image_file_path": "products/poly-twill-crewneck-arched-yale.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "sailing-left-chest-hoodie",
+    "name": "Sailing Left Chest Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hoodie with drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a white YALE SAILING left-chest graphic.",
+    "colors": [
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "sailing",
+      "hoodie",
+      "pullover",
+      "navy",
+      "blue",
+      "left chest logo",
+      "college apparel",
+      "kangaroo pocket",
+      "drawstring hood"
+    ],
+    "image_file_path": "products/sailing-left-chest-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "saybrook-college-crewneck",
+    "name": "Saybrook College Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband, featuring a small multicolor Saybrook College crest and SAYBROOK text on the left chest.",
+    "colors": [
+      "navy blue",
+      "yellow",
+      "blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Saybrook College",
+      "college sweatshirt",
+      "crewneck",
+      "navy sweatshirt",
+      "heraldic crest",
+      "left chest logo",
+      "long sleeve"
+    ],
+    "image_file_path": "products/saybrook-college-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "saybrook-logo-t-shirt",
+    "name": "Saybrook Logo T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray short-sleeve T-shirt featuring a centered Saybrook College heraldic shield crest in blue, yellow, and black, with SAYBROOK COLLEGE text beneath.",
+    "colors": [
+      "heather gray",
+      "blue",
+      "yellow",
+      "black"
+    ],
+    "search_tags": [
+      "Yale",
+      "Saybrook College",
+      "college shirt",
+      "crest shirt",
+      "logo t-shirt",
+      "gray t-shirt",
+      "short sleeve",
+      "Campus Customs",
+      "Yale merch"
+    ],
+    "image_file_path": "products/saybrook-logo-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "saybrook-sweater-fleece-jacket",
+    "name": "Saybrook Sweater Fleece Jacket",
+    "garment_type": "fleece jacket",
+    "description": "Heather gray full-zip sweater fleece jacket with a stand collar, charcoal gray zipper and pocket trim, and an embroidered Saybrook College crest on the left chest.",
+    "colors": [
+      "heather gray",
+      "charcoal gray",
+      "yellow",
+      "blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Saybrook",
+      "Saybrook College",
+      "fleece jacket",
+      "sweater fleece",
+      "full zip",
+      "gray jacket",
+      "college crest",
+      "embroidered logo",
+      "men's outerwear"
+    ],
+    "image_file_path": "products/saybrook-sweater-fleece-jacket.jpg",
+    "price": 98.0
+  },
+  {
+    "product_id": "school-of-architecture-crewneck",
+    "name": "School Of Architecture Crewneck",
+    "garment_type": "quarter-zip pullover sweatshirt",
+    "description": "Navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, and Yale School of Architecture branding on the left chest.",
+    "colors": [
+      "navy blue",
+      "white",
+      "light blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "School of Architecture",
+      "architecture",
+      "quarter zip",
+      "pullover",
+      "sweatshirt",
+      "navy",
+      "embroidered crest",
+      "college merch"
+    ],
+    "image_file_path": "products/school-of-architecture-crewneck.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "school-of-architecture-fleece-sweater",
+    "name": "School Of Architecture Fleece Sweater",
+    "garment_type": "full-zip fleece jacket",
+    "description": "Navy blue full-zip fleece jacket with a stand collar, long sleeves, front pockets, and Yale School of Architecture text and shield crest on the left chest.",
+    "colors": [
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "School of Architecture",
+      "architecture",
+      "fleece",
+      "fleece jacket",
+      "full zip",
+      "navy",
+      "quarter zip",
+      "crest",
+      "shield",
+      "campus apparel"
+    ],
+    "image_file_path": "products/school-of-architecture-fleece-sweater.jpg",
+    "price": 98.0
+  },
+  {
+    "product_id": "school-of-art-1-4-zip",
+    "name": "School Of Art 1 4 Zip",
+    "garment_type": "quarter-zip pullover",
+    "description": "Navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, Yale School of Art text, and a multicolor shield crest on the left chest.",
+    "colors": [
+      "navy",
+      "multicolor"
+    ],
+    "search_tags": [
+      "Yale",
+      "School of Art",
+      "quarter zip",
+      "pullover",
+      "navy sweatshirt",
+      "fleece",
+      "shield crest",
+      "college apparel",
+      "long sleeve"
+    ],
+    "image_file_path": "products/school-of-art-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "school-of-art-fleece-sweater",
+    "name": "School Of Art Fleece Sweater",
+    "garment_type": "full-zip fleece jacket",
+    "description": "Navy blue full-zip fleece jacket with a stand collar, long sleeves, zippered front pockets, Yale School of Art text, and a colorful crest on the left chest.",
+    "colors": [
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale School of Art",
+      "school of art",
+      "fleece",
+      "fleece jacket",
+      "full zip",
+      "zip-up",
+      "navy",
+      "crest",
+      "college merch"
+    ],
+    "image_file_path": "products/school-of-art-fleece-sweater.jpg",
+    "price": 98.0
+  },
+  {
+    "product_id": "school-of-engineering-1-4-zip",
+    "name": "School Of Engineering 1 4 Zip",
+    "garment_type": "quarter-zip pullover",
+    "description": "Navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, and Yale School of Engineering and Applied Science crest and lettering on the left chest.",
+    "colors": [
+      "navy blue",
+      "white",
+      "gold",
+      "light blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale School of Engineering",
+      "engineering",
+      "applied science",
+      "quarter zip",
+      "pullover",
+      "navy sweatshirt",
+      "embroidered crest",
+      "college apparel"
+    ],
+    "image_file_path": "products/school-of-engineering-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "school-of-management-crest-t-shirt",
+    "name": "School Of Management Crest T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Navy short-sleeve Yale School of Management t-shirt featuring white Yale School of Management lettering and a centered shield crest in white and light blue.",
+    "colors": [
+      "navy",
+      "white",
+      "light blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "School of Management",
+      "SOM",
+      "crest",
+      "shield",
+      "college merch",
+      "university t-shirt",
+      "navy t-shirt",
+      "short sleeve"
+    ],
+    "image_file_path": "products/school-of-management-crest-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "school-of-medicine-1-4-zip",
+    "name": "School Of Medicine 1 4 Zip",
+    "garment_type": "quarter-zip pullover sweatshirt",
+    "description": "Navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, featuring Yale School of Medicine text and a multicolor shield crest on the left chest.",
+    "colors": [
+      "navy blue",
+      "white",
+      "red",
+      "green"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale School of Medicine",
+      "medical school",
+      "quarter zip",
+      "1/4 zip",
+      "pullover",
+      "sweatshirt",
+      "navy",
+      "crest",
+      "shield logo",
+      "collegiate apparel"
+    ],
+    "image_file_path": "products/school-of-medicine-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "school-of-music-fleece-sweater",
+    "name": "School Of Music Fleece Sweater",
+    "garment_type": "full-zip fleece jacket",
+    "description": "Navy blue full-zip fleece jacket with a stand collar, long sleeves, side pockets, Yale School of Music text, and a colorful shield crest on the left chest.",
+    "colors": [
+      "navy blue",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "search_tags": [
+      "Yale",
+      "School of Music",
+      "fleece",
+      "fleece jacket",
+      "full zip",
+      "zip-up",
+      "navy",
+      "college apparel",
+      "campus merch",
+      "shield crest"
+    ],
+    "image_file_path": "products/school-of-music-fleece-sweater.jpg",
+    "price": 98.0
+  },
+  {
+    "product_id": "school-of-nursing-crest-t-shirt",
+    "name": "School Of Nursing Crest T Shirt",
+    "garment_type": "short-sleeve crew-neck t-shirt",
+    "description": "Navy blue short-sleeve crew-neck T-shirt with white YALE SCHOOL OF NURSING lettering across the chest and a centered Yale School of Nursing shield crest below.",
+    "colors": [
+      "navy blue",
+      "white",
+      "black",
+      "royal blue",
+      "gold"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale School of Nursing",
+      "nursing",
+      "crest",
+      "shield logo",
+      "college apparel",
+      "university merchandise",
+      "navy t-shirt",
+      "graphic tee",
+      "short sleeve shirt"
+    ],
+    "image_file_path": "products/school-of-nursing-crest-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "school-of-public-health-1-4-zip",
+    "name": "School Of Public Health 1 4 Zip",
+    "garment_type": "quarter-zip pullover",
+    "description": "Navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, white Yale School of Public Health text, and a multicolor shield crest on the left chest.",
+    "colors": [
+      "navy blue",
+      "white",
+      "red",
+      "blue",
+      "gold"
+    ],
+    "search_tags": [
+      "Yale",
+      "School of Public Health",
+      "quarter zip",
+      "1/4 zip",
+      "pullover",
+      "navy sweatshirt",
+      "college merch",
+      "shield crest",
+      "long sleeve"
+    ],
+    "image_file_path": "products/school-of-public-health-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "soccer-left-chest-crewneck",
+    "name": "Soccer Left Chest Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy blue long-sleeve crewneck sweatshirt with a white YALE SOCCER wordmark printed on the left chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "soccer",
+      "crewneck",
+      "sweatshirt",
+      "navy",
+      "long sleeve",
+      "left chest logo",
+      "college apparel"
+    ],
+    "image_file_path": "products/soccer-left-chest-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "squash-left-chest-hoodie",
+    "name": "Squash Left Chest Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hoodie with drawstring hood, kangaroo pocket, ribbed cuffs and hem, and a white YALE SQUASH print on the left chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "squash",
+      "hoodie",
+      "pullover",
+      "navy",
+      "left chest logo",
+      "college apparel",
+      "kangaroo pocket",
+      "drawstring hood"
+    ],
+    "image_file_path": "products/squash-left-chest-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "squash-left-chest-tennis",
+    "name": "Squash Left Chest Tennis",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Navy blue long-sleeve crewneck sweatshirt with a small white YALE SQUASH graphic on the left chest, ribbed collar, cuffs, and waistband.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Squash",
+      "squash",
+      "tennis",
+      "navy sweatshirt",
+      "crewneck",
+      "long sleeve",
+      "left chest graphic",
+      "college merch",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/squash-left-chest-tennis.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+    "name": "Super Heavyweight Crewneck Arched Yale Crest",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heavyweight heather gray crewneck sweatshirt with arched navy-and-white YALE lettering and a centered Yale bulldog mascot over a Y crest.",
+    "colors": [
+      "heather gray",
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "crewneck",
+      "sweatshirt",
+      "super heavyweight",
+      "heather gray",
+      "navy",
+      "bulldog",
+      "mascot",
+      "arched Yale",
+      "college apparel",
+      "Ivy League"
+    ],
+    "image_file_path": "products/super-heavyweight-crewneck-arched-yale-crest.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "t-felt-y-heavyweight",
+    "name": "T Felt Y Heavyweight",
+    "garment_type": "heavyweight short-sleeve t-shirt",
+    "description": "Cream heavyweight cotton-style short-sleeve T-shirt with a large navy Yale block Y graphic on the front and a crew neckline.",
+    "colors": [
+      "cream",
+      "navy"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "college shirt",
+      "campus merch",
+      "heavyweight tee",
+      "cream t-shirt",
+      "navy graphic",
+      "block Y",
+      "short sleeve",
+      "crew neck"
+    ],
+    "image_file_path": "products/t-felt-y-heavyweight.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "the-forest-school-hoodie",
+    "name": "The Forest School Hoodie",
+    "garment_type": "hoodie",
+    "description": "Navy pullover hoodie with drawstring hood, front kangaroo pocket, and bold white YALE lettering above THE FOREST SCHOOL text.",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale hoodie",
+      "navy hoodie",
+      "pullover sweatshirt",
+      "college sweatshirt",
+      "The Forest School",
+      "white Yale lettering",
+      "kangaroo pocket",
+      "drawstring hood"
+    ],
+    "image_file_path": "products/the-forest-school-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "timothy-dwight-college-crewneck",
+    "name": "Timothy Dwight College Crewneck",
+    "garment_type": "crewneck",
+    "description": "Campus Customs product photo (timothy dwight college crewneck). Vision blocked; filename-based stub.",
+    "colors": [],
+    "search_tags": [
+      "timothy",
+      "dwight",
+      "college",
+      "crewneck"
+    ],
+    "image_file_path": "products/timothy-dwight-college-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "track-field-left-chest-t-shirt",
+    "name": "Track Field Left Chest T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Navy short-sleeve T-shirt featuring a small white YALE Track & Field design on the left chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "track and field",
+      "track & field",
+      "left chest",
+      "navy t-shirt",
+      "short sleeve",
+      "college apparel",
+      "Yale merch"
+    ],
+    "image_file_path": "products/track-field-left-chest-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "tri-blend-sports-baseball-t-shirt",
+    "name": "Tri Blend Sports Baseball T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray short-sleeve tri-blend sports t-shirt featuring navy YALE BASEBALL lettering and a Yale Y mark on the front.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "baseball",
+      "sports shirt",
+      "tri-blend",
+      "t-shirt",
+      "short sleeve",
+      "heather gray",
+      "navy blue",
+      "college apparel",
+      "Yale Y"
+    ],
+    "image_file_path": "products/tri-blend-sports-baseball-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "tri-blend-sports-basketball-t-shirt",
+    "name": "Tri Blend Sports Basketball T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray short-sleeve tri-blend sports t-shirt featuring large navy YALE lettering, BASKETBALL text, and a Yale Y logo on the front.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "basketball",
+      "tri-blend",
+      "sports shirt",
+      "t-shirt",
+      "short sleeve",
+      "heather gray",
+      "navy blue",
+      "Yale Y logo",
+      "college apparel"
+    ],
+    "image_file_path": "products/tri-blend-sports-basketball-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "tri-blend-sports-football-t-shirt",
+    "name": "Tri Blend Sports Football T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray short-sleeve athletic-style T-shirt with bold navy YALE FOOTBALL lettering and a navy Yale block Y beneath.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "football",
+      "college sports",
+      "Ivy League",
+      "athletic t-shirt",
+      "heather gray",
+      "navy blue",
+      "short sleeve",
+      "block Y"
+    ],
+    "image_file_path": "products/tri-blend-sports-football-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "tri-blend-sports-hockey-t-shirt",
+    "name": "Tri Blend Sports Hockey T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray tri-blend short-sleeve T-shirt featuring large navy YALE and HOCKEY lettering on the front, with a Yale Y emblem below.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "hockey",
+      "Yale Hockey",
+      "tri-blend",
+      "sports shirt",
+      "college merch",
+      "gray T-shirt",
+      "navy lettering",
+      "short sleeve"
+    ],
+    "image_file_path": "products/tri-blend-sports-hockey-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "tri-blend-sports-soccer-t-shirt",
+    "name": "Tri Blend Sports Soccer T Shirt",
+    "garment_type": "short-sleeve T-shirt",
+    "description": "Heather gray short-sleeve crew-neck T-shirt with centered navy blue YALE SOCCER lettering and a large block Y graphic.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "soccer",
+      "Yale soccer shirt",
+      "tri-blend",
+      "sports T-shirt",
+      "college apparel",
+      "heather gray",
+      "navy blue",
+      "crew neck",
+      "short sleeve"
+    ],
+    "image_file_path": "products/tri-blend-sports-soccer-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "tri-blend-sports-tennis-t-shirt",
+    "name": "Tri Blend Sports Tennis T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray tri-blend style short-sleeve crew-neck T-shirt featuring navy blue YALE and TENNIS lettering with a large block Y below.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Tennis",
+      "tennis shirt",
+      "tri-blend",
+      "sports apparel",
+      "heather gray t-shirt",
+      "navy lettering",
+      "short sleeve",
+      "crew neck",
+      "college merch"
+    ],
+    "image_file_path": "products/tri-blend-sports-tennis-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "tri-blend-sports-track-and-field-t-shirt",
+    "name": "Tri Blend Sports Track And Field T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray tri-blend style short-sleeve T-shirt featuring a navy Yale wordmark, TRACK & FIELD text, and a block Y emblem centered on the chest.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "track and field",
+      "sports",
+      "athletics",
+      "tri-blend",
+      "heather gray",
+      "navy",
+      "short sleeve",
+      "college merch",
+      "graphic tee"
+    ],
+    "image_file_path": "products/tri-blend-sports-track-and-field-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "trumbull-1-4-zip",
+    "name": "Trumbull 1 4 Zip",
+    "garment_type": "quarter-zip pullover sweatshirt",
+    "description": "Long-sleeve heather gray quarter-zip pullover with a stand collar, ribbed cuffs and hem, and a Trumbull College crest with TRUMBULL text on the left chest.",
+    "colors": [
+      "heather gray",
+      "black"
+    ],
+    "search_tags": [
+      "Yale",
+      "Trumbull College",
+      "quarter zip",
+      "1/4 zip",
+      "pullover",
+      "sweatshirt",
+      "heather gray",
+      "crest",
+      "college apparel",
+      "long sleeve"
+    ],
+    "image_file_path": "products/trumbull-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "ua-gameday-double-knit-hood",
+    "name": "Ua Gameday Double Knit Hood",
+    "garment_type": "hooded pullover sweatshirt",
+    "description": "Navy double-knit hooded pullover sweatshirt with a white-lined hood, white Yale Y chest mark, kangaroo pocket, and Under Armour sleeve logo.",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Campus Customs",
+      "Under Armour",
+      "hoodie",
+      "hooded sweatshirt",
+      "pullover",
+      "navy sweatshirt",
+      "Y logo",
+      "college apparel",
+      "gameday"
+    ],
+    "image_file_path": "products/ua-gameday-double-knit-hood.jpg",
+    "price": 45.0
+  },
+  {
+    "product_id": "ua-mens-tech-l-s-2-0",
+    "name": "Ua Mens Tech L S 2 0",
+    "garment_type": "men's long-sleeve performance shirt",
+    "description": "Navy men's long-sleeve athletic performance shirt with white outlined YALE lettering, a large Y, BULLDOGS text, decorative stripe detail, and Under Armour branding on the chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Bulldogs",
+      "Yale Bulldogs",
+      "Under Armour",
+      "men's shirt",
+      "long sleeve",
+      "performance shirt",
+      "athletic shirt",
+      "tech shirt",
+      "navy shirt",
+      "college apparel"
+    ],
+    "image_file_path": "products/ua-mens-tech-l-s-2-0.jpg",
+    "price": 45.0
+  },
+  {
+    "product_id": "volleyball-left-chest-hoodie",
+    "name": "Volleyball Left Chest Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy pullover hoodie with drawstring hood, kangaroo front pocket, ribbed cuffs and hem, and white YALE VOLLEYBALL lettering on the left chest.",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "volleyball",
+      "hoodie",
+      "pullover",
+      "navy sweatshirt",
+      "left chest logo",
+      "college apparel",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/volleyball-left-chest-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-aunt-hoodie",
+    "name": "Yale Aunt Hoodie",
+    "garment_type": "hoodie",
+    "description": "Navy pullover hoodie with drawstring hood, front kangaroo pocket, and white Yale University Aunt graphic across the chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "Aunt",
+      "college hoodie",
+      "campus merch",
+      "navy hoodie",
+      "pullover sweatshirt",
+      "hooded sweatshirt"
+    ],
+    "image_file_path": "products/yale-aunt-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-bowl-t-shirt",
+    "name": "Yale Bowl T Shirt",
+    "garment_type": "short-sleeve T-shirt",
+    "description": "Ivory Yale T-shirt with navy contrast ribbed crew neck and sleeve cuffs, featuring a vintage Yale Bowl stadium illustration and collegiate typography across the chest.",
+    "colors": [
+      "ivory",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Bowl",
+      "Bulldogs",
+      "college T-shirt",
+      "university merch",
+      "ivory shirt",
+      "navy trim",
+      "vintage collegiate",
+      "stadium graphic",
+      "short sleeve"
+    ],
+    "image_file_path": "products/yale-bowl-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "yale-brother-crewneck",
+    "name": "Yale Brother Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt featuring a large navy Yale wordmark between horizontal lines and the word BROTHER beneath it.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Brother",
+      "crewneck",
+      "sweatshirt",
+      "gray sweatshirt",
+      "navy text",
+      "college apparel",
+      "university merch",
+      "long sleeve"
+    ],
+    "image_file_path": "products/yale-brother-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-cousin-crewneck",
+    "name": "Yale Cousin Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt featuring a large navy Yale wordmark, UNIVERSITY and COUSIN text, and navy horizontal accent lines across the chest.",
+    "colors": [
+      "heather gray",
+      "navy"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "Cousin",
+      "crewneck",
+      "sweatshirt",
+      "gray sweatshirt",
+      "navy print",
+      "college merch",
+      "Ivy League",
+      "long sleeve"
+    ],
+    "image_file_path": "products/yale-cousin-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-dad-crewneck",
+    "name": "Yale Dad Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt with navy blue Yale University Dad graphic across the chest.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "Dad",
+      "college sweatshirt",
+      "crewneck",
+      "gray sweatshirt",
+      "navy lettering",
+      "parent apparel",
+      "Ivy League merch"
+    ],
+    "image_file_path": "products/yale-dad-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-dad-hoodie",
+    "name": "Yale Dad Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hoodie with drawstring hood, long sleeves, kangaroo front pocket, and bold white Yale University Dad graphic across the chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "dad hoodie",
+      "college hoodie",
+      "Navy hoodie",
+      "pullover sweatshirt",
+      "school spirit",
+      "kangaroo pocket",
+      "white chest lettering"
+    ],
+    "image_file_path": "products/yale-dad-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-dad-t-shirt",
+    "name": "Yale Dad T Shirt",
+    "garment_type": "short-sleeve t-shirt",
+    "description": "Heather gray short-sleeve crew-neck T-shirt featuring a navy Yale University graphic and the word DAD across the chest.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "dad shirt",
+      "father",
+      "college apparel",
+      "school spirit",
+      "heather gray t-shirt",
+      "navy graphic",
+      "short sleeve",
+      "crew neck"
+    ],
+    "image_file_path": "products/yale-dad-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "yale-diving-t-shirt",
+    "name": "Yale Diving T Shirt",
+    "garment_type": "short-sleeve T-shirt",
+    "description": "Heather gray short-sleeve T-shirt featuring navy blue YALE and DIVING text with a Yale block Y logo on the chest.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "diving",
+      "Yale Diving",
+      "college apparel",
+      "university T-shirt",
+      "gray T-shirt",
+      "navy blue print",
+      "short sleeve",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/yale-diving-t-shirt.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "yale-grandma-hoodie",
+    "name": "Yale Grandma Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hoodie with a white Yale wordmark across the chest, smaller UNIVERSITY and GRANDMA text beneath, drawstring hood, long sleeves, and front kangaroo pocket.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "Grandma",
+      "college hoodie",
+      "university sweatshirt",
+      "navy hoodie",
+      "pullover hoodie",
+      "campus apparel",
+      "Ivy League"
+    ],
+    "image_file_path": "products/yale-grandma-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-grandpa-crewneck",
+    "name": "Yale Grandpa Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt with a large navy YALE wordmark across the chest, UNIVERSITY beneath it, and GRANDPA text below.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "grandpa sweatshirt",
+      "crewneck",
+      "sweatshirt",
+      "gray sweatshirt",
+      "navy text",
+      "college apparel",
+      "Ivy League",
+      "long sleeve"
+    ],
+    "image_file_path": "products/yale-grandpa-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-grandpa-hoodie",
+    "name": "Yale Grandpa Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hoodie with drawstring hood, kangaroo pocket, ribbed cuffs and hem, and large white Yale University Grandpa graphic across the chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "Grandpa hoodie",
+      "college hoodie",
+      "university sweatshirt",
+      "navy hoodie",
+      "white Yale lettering",
+      "pullover hoodie",
+      "kangaroo pocket"
+    ],
+    "image_file_path": "products/yale-grandpa-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-law-school-1-4-zip",
+    "name": "Yale Law School 1 4 Zip",
+    "garment_type": "quarter-zip pullover",
+    "description": "Navy quarter-zip pullover with a stand collar, ribbed cuffs and hem, Yale Law School text, and a small shield crest on the left chest.",
+    "colors": [
+      "navy"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Law School",
+      "law school",
+      "quarter zip",
+      "pullover",
+      "navy sweatshirt",
+      "crest",
+      "collegiate apparel"
+    ],
+    "image_file_path": "products/yale-law-school-1-4-zip.jpg",
+    "price": 72.0
+  },
+  {
+    "product_id": "yale-maplehouse-diana-mockneck",
+    "name": "Yale Maplehouse Diana Mockneck",
+    "garment_type": "mockneck sweatshirt",
+    "description": "Cream mockneck sweatshirt with ribbed cuffs and hem, featuring a large blue outlined BULLDOGS wordmark across the chest.",
+    "colors": [
+      "cream",
+      "blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Bulldogs",
+      "college sweatshirt",
+      "mockneck",
+      "cream sweatshirt",
+      "blue lettering",
+      "MapleHouse",
+      "Diana mockneck",
+      "collegiate apparel"
+    ],
+    "image_file_path": "products/yale-maplehouse-diana-mockneck.jpg",
+    "price": 45.0
+  },
+  {
+    "product_id": "yale-mom-crewneck",
+    "name": "Yale Mom Crewneck",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt featuring a large navy YALE wordmark, UNIVERSITY beneath it, and MOM lettering on the chest.",
+    "colors": [
+      "heather gray",
+      "navy"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Mom",
+      "college sweatshirt",
+      "crewneck",
+      "gray sweatshirt",
+      "navy print",
+      "Ivy League",
+      "parent apparel",
+      "long sleeve"
+    ],
+    "image_file_path": "products/yale-mom-crewneck.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-mom-hoodie",
+    "name": "Yale Mom Hoodie",
+    "garment_type": "pullover hoodie",
+    "description": "Navy blue pullover hoodie with white Yale University wordmark and MOM lettering across the chest, drawstring hood, long sleeves, and front kangaroo pocket.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "Yale Mom",
+      "mom hoodie",
+      "college hoodie",
+      "campus apparel",
+      "navy hoodie",
+      "pullover sweatshirt",
+      "drawstring hood",
+      "kangaroo pocket"
+    ],
+    "image_file_path": "products/yale-mom-hoodie.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-sports-creqneck-field-hockey",
+    "name": "Yale Sports Creqneck Field Hockey",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt featuring large navy YALE lettering, FIELD HOCKEY text, and a Yale interlocking Y emblem on the chest.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "field hockey",
+      "sports sweatshirt",
+      "crewneck",
+      "long sleeve",
+      "gray sweatshirt",
+      "navy lettering",
+      "college apparel",
+      "Yale Bulldogs"
+    ],
+    "image_file_path": "products/yale-sports-creqneck-field-hockey.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-sports-crewneck-baseball",
+    "name": "Yale Sports Crewneck Baseball",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt with large navy YALE and BASEBALL lettering across the chest and a navy block Y emblem underneath.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "baseball",
+      "crewneck",
+      "sweatshirt",
+      "pullover",
+      "heather gray",
+      "navy blue",
+      "college apparel",
+      "sports merch",
+      "long sleeve"
+    ],
+    "image_file_path": "products/yale-sports-crewneck-baseball.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-sports-crewneck-golf",
+    "name": "Yale Sports Crewneck Golf",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. Front graphic features large navy YALE text, GOLF underneath, and a Yale Y lettermark.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Golf",
+      "golf sweatshirt",
+      "crewneck",
+      "gray sweatshirt",
+      "navy print",
+      "college apparel",
+      "long sleeve",
+      "Yale Y"
+    ],
+    "image_file_path": "products/yale-sports-crewneck-golf.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-sports-crewneck-volleyball",
+    "name": "Yale Sports Crewneck Volleyball",
+    "garment_type": "crewneck sweatshirt",
+    "description": "Heather gray long-sleeve crewneck sweatshirt with navy blue YALE and VOLLEYBALL lettering and a Yale Y emblem on the front.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "volleyball",
+      "crewneck",
+      "sweatshirt",
+      "college apparel",
+      "gray sweatshirt",
+      "navy lettering",
+      "Yale sports",
+      "long sleeve"
+    ],
+    "image_file_path": "products/yale-sports-crewneck-volleyball.jpg",
+    "price": 58.0
+  },
+  {
+    "product_id": "yale-sports-hoodie-baseball",
+    "name": "Yale Sports Hoodie Baseball",
+    "garment_type": "pullover hoodie",
+    "description": "Heather gray long-sleeve pullover hoodie with a drawstring hood, front kangaroo pocket, and navy YALE BASEBALL graphic with a Yale Y logo.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "baseball",
+      "sports hoodie",
+      "college hoodie",
+      "pullover hoodie",
+      "gray hoodie",
+      "navy graphic",
+      "Yale University",
+      "kangaroo pocket"
+    ],
+    "image_file_path": "products/yale-sports-hoodie-baseball.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-sports-hoodie-diving",
+    "name": "Yale Sports Hoodie Diving",
+    "garment_type": "pullover hoodie",
+    "description": "Heather gray Yale Diving pullover hoodie with a drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and navy collegiate lettering.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "diving",
+      "sports hoodie",
+      "athletic hoodie",
+      "gray hoodie",
+      "navy lettering",
+      "pullover",
+      "college merch"
+    ],
+    "image_file_path": "products/yale-sports-hoodie-diving.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-sports-hoodie-golf",
+    "name": "Yale Sports Hoodie Golf",
+    "garment_type": "pullover hoodie",
+    "description": "Heather gray Yale Golf pullover hoodie with a front kangaroo pocket, drawstring hood, ribbed cuffs and hem, and navy collegiate lettering.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Golf",
+      "golf hoodie",
+      "college hoodie",
+      "Ivy League",
+      "pullover sweatshirt",
+      "gray hoodie",
+      "navy lettering",
+      "kangaroo pocket",
+      "Y logo"
+    ],
+    "image_file_path": "products/yale-sports-hoodie-golf.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-sports-hoodie-hockey",
+    "name": "Yale Sports Hoodie Hockey",
+    "garment_type": "pullover hoodie",
+    "description": "Heather gray Yale Hockey pullover hoodie with a navy collegiate-style YALE and HOCKEY graphic, Yale Y emblem, drawstring hood, long sleeves, and front kangaroo pocket.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale Hockey",
+      "hockey hoodie",
+      "sports hoodie",
+      "college hoodie",
+      "pullover sweatshirt",
+      "gray hoodie",
+      "navy lettering",
+      "Yale Y",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/yale-sports-hoodie-hockey.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-sports-hoodie-soccer",
+    "name": "Yale Sports Hoodie Soccer",
+    "garment_type": "pullover hoodie",
+    "description": "Heather gray pullover hoodie with a front kangaroo pocket, drawstring hood, navy YALE SOCCER lettering, and an interlocking Yale Y logo.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "soccer",
+      "sports hoodie",
+      "college hoodie",
+      "pullover sweatshirt",
+      "gray hoodie",
+      "navy lettering",
+      "Yale merch"
+    ],
+    "image_file_path": "products/yale-sports-hoodie-soccer.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-sports-hoodie-swimming",
+    "name": "Yale Sports Hoodie Swimming",
+    "garment_type": "hoodie",
+    "description": "Heather gray pullover hoodie with drawstring hood, kangaroo pocket, ribbed cuffs and hem, and navy YALE SWIMMING lettering with a Yale Y logo on the front.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "Yale University",
+      "swimming",
+      "sports",
+      "athletic",
+      "college hoodie",
+      "pullover hoodie",
+      "gray hoodie",
+      "navy lettering",
+      "Yale Y logo"
+    ],
+    "image_file_path": "products/yale-sports-hoodie-swimming.jpg",
+    "price": 68.0
+  },
+  {
+    "product_id": "yale-sports-hoodie-tennis",
+    "name": "Yale Sports Hoodie Tennis",
+    "garment_type": "hooded sweatshirt",
+    "description": "Heather gray pullover hoodie with drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and navy Yale Tennis graphics across the chest.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale hoodie",
+      "Yale Tennis",
+      "sports sweatshirt",
+      "college hoodie",
+      "gray pullover",
+      "navy lettering",
+      "Yale merch",
+      "kangaroo pocket"
+    ],
+    "image_file_path": "products/yale-sports-hoodie-tennis.jpg",
+    "price": 45.0
+  },
+  {
+    "product_id": "yale-sports-t-shirt-field-hockey",
+    "name": "Yale Sports T Shirt Field Hockey",
+    "garment_type": "short-sleeve T-shirt",
+    "description": "Heather gray short-sleeve Yale sports T-shirt with large navy YALE lettering, FIELD HOCKEY text, and a Yale Y emblem on the front.",
+    "colors": [
+      "heather gray",
+      "navy blue"
+    ],
+    "search_tags": [
+      "Yale",
+      "field hockey",
+      "sports T-shirt",
+      "college apparel",
+      "short sleeve",
+      "gray T-shirt",
+      "navy lettering",
+      "Yale Y logo"
+    ],
+    "image_file_path": "products/yale-sports-t-shirt-field-hockey.jpg",
+    "price": 32.0
+  },
+  {
+    "product_id": "yale-uncle-hoodie",
+    "name": "Yale Uncle Hoodie",
+    "garment_type": "hoodie",
+    "description": "Navy pullover hoodie with drawstring hood, kangaroo pocket, and large white Yale University Uncle graphic across the chest.",
+    "colors": [
+      "navy blue",
+      "white"
+    ],
+    "search_tags": [
+      "Yale hoodie",
+      "Yale University",
+      "Uncle hoodie",
+      "navy sweatshirt",
+      "pullover hoodie",
+      "college apparel",
+      "Campus Customs"
+    ],
+    "image_file_path": "products/yale-uncle-hoodie.jpg",
+    "price": 68.0
+  }
+]
